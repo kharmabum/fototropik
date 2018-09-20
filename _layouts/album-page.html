@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<link rel="stylesheet" href="{{ "/assets/css/lightbox.css" | relative_url }}">
+<script src="{{ "/assets/js/lightbox-plus-jquery.js" | relative_url }}"></script>
+
+{% for album in site.data.albums %}
+  {% if album.id == page.album_id %}
+      {% for img_index in (1..album.count) %}
+      <a href="{{ page.dir }}{{ album.id }}-{{ img_index }}.jpg" data-lightbox="album.id" data-title=""><img src="{{ page.dir }}{{ album.id }}-{{ img_index }}.jpg" /></a>
+      <br> &nbsp;
+      {% endfor %}
+  {% endif %}
+{% endfor %}

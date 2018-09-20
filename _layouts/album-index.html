@@ -1,0 +1,13 @@
+---
+layout: default
+---
+
+{% for album in site.data.albums %}
+<ul class="post-list">
+    <li>
+        {%- assign date_format = site.minima.date_format | default: "%b %Y" -%}
+        <span class="post-meta">{{ album.date | date: date_format }}</span>
+        <a class="post-link" href="/albums/{{ album.id }}">{{ album.name | escape }}</a>
+    </li>
+</ul>
+{% endfor %}
