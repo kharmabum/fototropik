@@ -5,9 +5,13 @@ layout: default
 {% for album in site.data.albums %}
 <ul class="post-list">
     <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %Y" -%}
+        {%- assign date_format = "%b %Y"  -%}
         <span class="post-meta">{{ album.date | date: date_format }}</span>
         <a class="post-link" href="/albums/{{ album.id }}">{{ album.name | escape }}</a>
     </li>
 </ul>
 {% endfor %}
+
+</br>
+
+All photographs are my own with use subject to restriction unless otherwise noted. The original (RAW) image, a higher-resolution JPEG, or print can be made available on request.

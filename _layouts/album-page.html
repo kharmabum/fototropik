@@ -6,9 +6,9 @@ layout: default
 
 {% for album in site.data.albums %}
   {% if album.id == page.album_id %}
-      {% for img_index in (1..album.count) %}
+      {% for img_index in (1..page.count) %}
       <a href="{{ page.dir }}{{ album.id }}-{{ img_index }}.jpg" data-lightbox="album.id" data-title=""><img src="{{ page.dir }}{{ album.id }}-{{ img_index }}.jpg" /></a>
-      <br> &nbsp;
+      <br> &nbsp; </br>
       {% endfor %}
   {% endif %}
 {% endfor %}

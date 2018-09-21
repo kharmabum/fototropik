@@ -1,4 +1,213 @@
-- id: test
-  name: Test album
-  date: 2018-08-21
-  count: 3
+- id: are-we-in-canada
+  name: "Are We in Canada?"
+  date: 2018-09-10
+- id: ruston
+  name: "Ruston"
+  date: 2018-09-06
+- id: chilopod
+  name: "Chilopod"
+  date: 2018-08-24
+- id: burn-18
+  name: "Burning Man: I, Robot"
+  date: 2018-08-24
+- id: soldner
+  name: "Soldner"
+  date: 2018-06-09
+- id: holguchi
+  name: "Holguchi"
+  date: 2018-05-31
+- id: desolation-wilderness
+  name: "Desolation Wilderness"
+  date: 2018-03-03
+- id: burn-17
+  name: "Burning Man: Radical Ritual"
+  date: 2017-08-31
+- id: sundance-17
+  name: "Sundance 2017"
+  date: 2017-01-26
+- id: horizon
+  name: "Horizon"
+  date: 2016-12-03
+- id: fourth-bangerz
+  name: "4th of July Bangerz"
+  date: 2016-07-04
+- id: blur
+  name: "Blur"
+  date: 2016-02-21
+- id: other-hike
+  name: "Other Hike"
+  date: 2016-02-12
+- id: sundance-16
+  name: "Sundance 2016"
+  date: 2016-01-29
+- id: were-back
+  name: "We're Back"
+  date: 2016-01-03
+- id: oahu
+  name: "Oahu"
+  date: 2015-12-25
+- id: maui
+  name: "Maui"
+  date: 2015-12-16
+- id: django
+  name: "Django"
+  date: 2015-12-13
+- id: feast-green
+  name: "Feast Green Screen"
+  date: 2015-11-14
+- id: feast-dining
+  name: "Feast"
+  date: 2015-11-14
+- id: a-wild-rieflin-appears
+  name: "A Wild Rieflin Appears"
+  date: 2015-09-27
+- id: whale-bus
+  name: "Whale Bus"
+  date: 2015-09-25
+- id: stochastic
+  name: "Stochastic"
+  date: 2015-09-15
+- id: philip
+  name: "Philip"
+  date: 2015-08-27
+- id: mark-and-julia
+  name: "Mark and Julia"
+  date: 2015-08-22
+- id: azendellending
+  name: "Azendellending"
+  date: 2015-08-15
+- id: poi
+  name: "Poi"
+  date: 2015-08-12
+- id: hog-island
+  name: "Hog Island"
+  date: 2015-08-02
+- id: that-day
+  name: "That Day"
+  date: 2015-07-15
+- id: faust
+  name: "Faust"
+  date: 2015-07-11
+- id: mikes-fourth
+  name: "Mike's Fourth"
+  date: 2015-07-04
+- id: cherry-picking
+  name: "Cherry Picking"
+  date: 2015-05-09
+- id: the-great-euroasian-adventure
+  name: "The Great Euroasian Adventure"
+  date: 2015-04-05
+- id: san-diego
+  name: "San Diego"
+  date: 2015-03-21
+- id: kites-with-bros
+  name: "Kites with Bros"
+  date: 2015-01-01
+- id: and-a-happy-new-year
+  name: "And a Happy New Year"
+  date: 2014-12-20
+- id: santacon
+  name: "Santacon"
+  date: 2014-12-13
+- id: iceland
+  name: "Iceland"
+  date: 2014-09-19
+- id: "napa-intro-weaver"
+  name: "Napa, intro Weaver"
+  date: 2014-07-06
+- id: greece-by-vas
+  name: "Greece by Vasiliki Michopolous"
+  date: 2014-06-12
+- id: greece
+  name: "Greece"
+  date: 2014-06-12
+- id: time-before-tomorrow
+  name: "Time Before Tomorrow"
+  date: 2014-06-09
+- id: ob-portraits
+  name: "OB Portraits"
+  date: 2014-04-29
+- id: reconciliation
+  name: "Reconciliation"
+  date: 2013-11-28
+- id: four-letter-words
+  name: "Four Letter Words"
+  date: 2013-11-01
+- id: leaf-13
+  name: "Lake Eden Arts Festival, Fall 2013"
+  date: 2013-10-18
+- id: the-beginning-of-the-rest-of-your-life
+  name: "The Beginning of the Rest of Your Life"
+  date: 2013-10-13
+- id: burn-13
+  name: Burning Man, Cargo Cult
+  date: 2013-08-31
+- id: empieza
+  name: "Empieza"
+  date: 2013-07-01
+- id: chilnualna-falls
+  name: "Chilnualna Falls"
+  date: 2013-04-29
+- id: the-end-is-the-beginning-is-the-end
+  name: The End is the Beginning is the End
+  date: 2013-04-10
+- id: holi
+  name: "Holi"
+  date: 2012-04-07
+- id: dewey-point
+  name: "Dewey Point"
+  date: 2012-01-30
+- id: charleston-christmas
+  name: "Charleston Christmas"
+  date: 2012-12-24
+- id: fall-11
+  name: "Fall, 2011"
+  date: 2011-10-22
+- id: india
+  name: "India"
+  date: 2011-06-01
+- id: roberto-in-charleston
+  name: "Roberto in Charleston"
+  date: 2011-09-08
+- id: cold-mountain
+  name: "Cold Mountain"
+  date: 2011-09-07
+- id: burn-11
+  name: Burning Man, Rites of Passage
+  date: 2011-08-31
+- id: the-roberto-show
+  name: "The Roberto Show"
+  date: 2011-05-20
+- id: railroad-revival
+  name: "Railroad Revival"
+  date: 2011-05-12
+- id: ludlow
+  name: "Ludlow"
+  date: 2011-02-06
+- id: puerto-rican-xmas
+  name: "Puerto Rican Christmas"
+  date: 2010-12-28
+- id: tis-the-season
+  name: "'Tis the Season"
+  date: 2010-12-04
+- id: point-reyes
+  name: "Point Reyes"
+  date: 2010-11-15
+- id: leaf-10
+  name: "Lake Eden Arts Festival, Fall 2010"
+  date: 2010-10-18
+- id: junior-lifeguards
+  name: "Junior Lifeguards"
+  date: 2010-07-23
+- id: slackline
+  name: "Slackline"
+  date: 2010-03-27
+- id: yosemite-peak
+  name: "Yosemite Peak"
+  date: 2010-02-01
+- id: half-dome
+  name: "Half Dome"
+  date: 2009-10-18
+- id: the-dish-and-a-day-with-patrick
+  name: "The Dish and a day with Patrick"
+  date: 2009-09-15
