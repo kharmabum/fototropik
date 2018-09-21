@@ -1,5 +1,5 @@
 ---
 album_id: blur
 layout: album-page
-count: 80
+count: 35
 ---

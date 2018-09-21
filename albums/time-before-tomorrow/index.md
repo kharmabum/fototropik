@@ -1,5 +1,5 @@
 ---
 album_id: time-before-tomorrow
 layout: album-page
-count: 17
+count: 10
 ---

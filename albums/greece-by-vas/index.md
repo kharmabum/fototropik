@@ -1,5 +1,5 @@
 ---
 album_id: greece-by-vas
 layout: album-page
-count: 64
+count: 42
 ---

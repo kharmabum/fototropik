@@ -1,5 +1,5 @@
 ---
 album_id: railroad-revival
 layout: album-page
-count: 8
+count: 7
 ---

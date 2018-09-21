@@ -1,5 +1,5 @@
 ---
 album_id: feast-green
 layout: album-page
-count: 157
+count: 81
 ---

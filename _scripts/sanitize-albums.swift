@@ -10,7 +10,14 @@ func renameImageFiles() throws {
             return $0.name.localizedStandardCompare($1.name) == .orderedAscending
         })
 
-        for (index, file) in imageFiles.enumerated().reversed() { // reversed order reduce likelihood of name conflicts
+        let randomString = UUID().uuidString
+
+        // ensures no name conflicts
+        for (index, file) in imageFiles.enumerated() {
+            try file.rename(to: "\(index)-\(randomString)")
+        }
+
+        for (index, file) in imageFiles.enumerated() {
             try file.rename(to: "\(album.name)-\(index + 1)")
         }
 

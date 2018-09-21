@@ -1,5 +1,5 @@
 ---
 album_id: fall-11
 layout: album-page
-count: 42
+count: 25
 ---

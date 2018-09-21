@@ -30,6 +30,7 @@ header_pages:
   - albums/index.md
 plugins:
   - jekyll-feed
+base_image_url: https://f001.backblazeb2.com/file/fototropik/albums
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

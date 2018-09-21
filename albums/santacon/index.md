@@ -1,5 +1,5 @@
 ---
 album_id: santacon
 layout: album-page
-count: 58
+count: 21
 ---

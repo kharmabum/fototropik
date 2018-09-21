@@ -1,5 +1,5 @@
 ---
 album_id: were-back
 layout: album-page
-count: 3
+count: 2
 ---

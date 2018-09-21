@@ -1,5 +1,5 @@
 ---
 album_id: burn-13
 layout: album-page
-count: 36
+count: 34
 ---

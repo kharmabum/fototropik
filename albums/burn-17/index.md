@@ -1,5 +1,5 @@
 ---
 album_id: burn-17
 layout: album-page
-count: 13
+count: 9
 ---

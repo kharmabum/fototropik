@@ -1,5 +1,5 @@
 ---
 album_id: india
 layout: album-page
-count: 128
+count: 101
 ---

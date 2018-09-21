@@ -1,5 +1,5 @@
 ---
 album_id: napa-intro-weaver
 layout: album-page
-count: 94
+count: 45
 ---

@@ -1,5 +1,5 @@
 ---
 album_id: chilopod
 layout: album-page
-count: 23
+count: 11
 ---

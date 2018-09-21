@@ -1,5 +1,5 @@
 ---
 album_id: half-dome
 layout: album-page
-count: 69
+count: 18
 ---

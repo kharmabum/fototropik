@@ -1,5 +1,5 @@
 ---
 album_id: yosemite-peak
 layout: album-page
-count: 143
+count: 45
 ---

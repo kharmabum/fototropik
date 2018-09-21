@@ -1,5 +1,5 @@
 ---
 album_id: leaf-10
 layout: album-page
-count: 51
+count: 20
 ---

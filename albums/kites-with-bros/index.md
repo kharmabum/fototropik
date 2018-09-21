@@ -1,5 +1,5 @@
 ---
 album_id: kites-with-bros
 layout: album-page
-count: 17
+count: 7
 ---

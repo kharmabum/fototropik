@@ -1,5 +1,5 @@
 ---
 album_id: empieza
 layout: album-page
-count: 81
+count: 50
 ---

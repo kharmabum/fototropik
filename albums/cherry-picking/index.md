@@ -1,5 +1,5 @@
 ---
 album_id: cherry-picking
 layout: album-page
-count: 5
+count: 4
 ---

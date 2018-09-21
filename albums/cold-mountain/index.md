@@ -1,5 +1,5 @@
 ---
 album_id: cold-mountain
 layout: album-page
-count: 35
+count: 26
 ---

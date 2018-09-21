@@ -1,5 +1,5 @@
 ---
 album_id: fourth-bangerz
 layout: album-page
-count: 86
+count: 44
 ---

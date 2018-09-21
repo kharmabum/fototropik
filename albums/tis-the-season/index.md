@@ -1,5 +1,5 @@
 ---
 album_id: tis-the-season
 layout: album-page
-count: 28
+count: 11
 ---

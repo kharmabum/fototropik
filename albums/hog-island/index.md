@@ -1,5 +1,5 @@
 ---
 album_id: hog-island
 layout: album-page
-count: 15
+count: 10
 ---

@@ -1,5 +1,5 @@
 ---
 album_id: faust
 layout: album-page
-count: 3
+count: 2
 ---

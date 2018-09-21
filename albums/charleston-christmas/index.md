@@ -1,5 +1,5 @@
 ---
 album_id: charleston-christmas
 layout: album-page
-count: 33
+count: 17
 ---

@@ -1,5 +1,5 @@
 ---
 album_id: holguchi
 layout: album-page
-count: 97
+count: 56
 ---

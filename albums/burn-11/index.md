@@ -1,5 +1,5 @@
 ---
 album_id: burn-11
 layout: album-page
-count: 78
+count: 47
 ---

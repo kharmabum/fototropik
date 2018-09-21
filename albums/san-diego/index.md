@@ -1,5 +1,5 @@
 ---
 album_id: san-diego
 layout: album-page
-count: 77
+count: 42
 ---
