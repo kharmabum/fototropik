@@ -27,7 +27,6 @@ github_username:  kharmabum
 markdown: kramdown
 theme: minima
 header_pages:
-  - about.md
   - albums/index.md
 plugins:
   - jekyll-feed
