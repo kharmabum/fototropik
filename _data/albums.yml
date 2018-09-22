@@ -5,7 +5,7 @@
   name: "Ruston"
   date: 2018-09-06
 - id: chilopod
-  name: "Chilopod"
+  name: "Chilopod by Team Embrio"
   date: 2018-08-24
 - id: burn-18
   name: "Burning Man: I, Robot"
@@ -113,7 +113,7 @@
   name: "Iceland"
   date: 2014-09-19
 - id: "napa-intro-weaver"
-  name: "Napa, intro Weaver"
+  name: "Napa, Intro Weaver"
   date: 2014-07-06
 - id: greece-by-vas
   name: "Greece by Vasiliki Michopolous"
@@ -134,13 +134,13 @@
   name: "Four Letter Words"
   date: 2013-11-01
 - id: leaf-13
-  name: "Lake Eden Arts Festival, Fall 2013"
+  name: "Lake Eden Arts Festival"
   date: 2013-10-18
 - id: the-beginning-of-the-rest-of-your-life
   name: "The Beginning of the Rest of Your Life"
   date: 2013-10-13
 - id: burn-13
-  name: Burning Man, Cargo Cult
+  name: "Burning Man: Cargo Cult"
   date: 2013-08-31
 - id: empieza
   name: "Empieza"
@@ -164,7 +164,7 @@
   name: "Fall, 2011"
   date: 2011-10-22
 - id: india
-  name: "India"
+  name: "India, Nepal"
   date: 2011-06-01
 - id: roberto-in-charleston
   name: "Roberto in Charleston"
@@ -173,7 +173,7 @@
   name: "Cold Mountain"
   date: 2011-09-07
 - id: burn-11
-  name: Burning Man, Rites of Passage
+  name: "Burning Man: Rites of Passage"
   date: 2011-08-31
 - id: the-roberto-show
   name: "The Roberto Show"
@@ -194,7 +194,7 @@
   name: "Point Reyes"
   date: 2010-11-15
 - id: leaf-10
-  name: "Lake Eden Arts Festival, Fall 2010"
+  name: "Lake Eden Arts Festival"
   date: 2010-10-18
 - id: junior-lifeguards
   name: "Junior Lifeguards"

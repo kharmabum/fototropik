@@ -1,5 +1,5 @@
 ---
 album_id: horizon
 layout: album-page
-count: 40
+count: 18
 ---
