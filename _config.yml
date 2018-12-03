@@ -26,7 +26,7 @@ github_username:  kharmabum
 markdown: kramdown
 theme: minima
 header_pages:
-  - albums/index.md
+  - hire-me.md
 plugins:
   - jekyll-feed
 base_image_url: https://f001.backblazeb2.com/file/fototropik/albums
