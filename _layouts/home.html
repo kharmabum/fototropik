@@ -9,45 +9,6 @@ layout: default
 
   {{ content }}
 
-  <ul class="post-list">
-    {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <li>
-      <h3>
-        <a class="post-link" href="/quotes">
-          Quotes
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
-        <a class="post-link" href="/albums">
-          Photography
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
-        <a class="post-link" href="/reading">
-          Book Recommendations
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
-        <a class="post-link" href="/film">
-          Film Recommendations
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
-        <a class="post-link" target="_blank" href="https://pinboard.in/u:fototropik">
-          Bookmarks
-        </a>
-      </h3>
-    </li>
-  </ul>
-
   <!-- {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Writing" }}</h2>
     <ul class="post-list">
