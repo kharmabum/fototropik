@@ -5,7 +5,7 @@ date:   2018-12-02
 permalink: /hire-me/
 ---
 
-Hello there. I'm Juan-Carlos Foust, an independent consultant who specializes in bringing products to life on iOS. If you want to ship an important new feature or construct a new app from the ground up, let's talk.
+Hello there. I'm Juan-Carlos Foust, an independent consultant who specializes in bringing products to life on iOS. If you want to ship an important new feature or construct a new app from the ground up, [let's talk](mailto:jc@fototropik.com).
 
 ## What can I do for you?
 
