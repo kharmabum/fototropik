@@ -77,7 +77,6 @@ permalink: /film/
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
 
-
 [Waking Life]: https://www.imdb.com/title/tt0243017/?ref_=fn_al_tt_1
 [Eternal Sunshine of the Spotless Mind]:https://www.imdb.com/title/tt0338013/?ref_=fn_al_tt_1
 [Memento]: https://www.imdb.com/title/tt0209144/?ref_=nv_sr_1
@@ -101,4 +100,4 @@ permalink: /film/
 [Macbeth (2006)]: https://www.imdb.com/title/tt0434541/
 [Macbeth (2015)]: https://www.imdb.com/title/tt2884018/?ref_=fn_tt_tt_1
 [Upstream Color]: https://www.imdb.com/title/tt2084989/?ref_=fn_al_tt_1
-[Matrix]: https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1
+[The Matrix]: https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1
