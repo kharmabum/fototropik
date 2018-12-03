@@ -33,7 +33,7 @@ Here are some of the services I offer:
 
 ## More about me
 
-In the past I've worked on enterprise web applications for doctors, web and mobile SDKs for developers, control interfaces for neurostimulation devices, data visualization displays for patients, social networks for healthy communities, and robust messaging applications for students.
+In the past I've worked on enterprise web applications for doctors, web and mobile SDKs for developers, control interfaces for neurostimulation devices, data visualizations for patients, social networks for healthy communities, and robust messaging applications for students.
 
 I’ve worked at large companies, at startups, and as an independent contractor. I enjoy collaborating with strong, passionate teams.
 
