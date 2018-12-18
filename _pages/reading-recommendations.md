@@ -71,16 +71,14 @@ Life & Relationships
 - [The Righteous Mind] by Jonathan Haidt. 2012. 419 pp.
 - [Lying] by Sam Harris. 2011. 47 pp.
 - [Mating in Captivity] by Esther Perel. 2006. 272 pp.
-- [The Ethical Slut] by Dossie Easton and Catherine A. Liszt. 1997. 279 pp.
-- [Letters to a Young Contrarian] by Christopher Hitchens. 2001. 141 pp.
+- [Everything I Ever Needed to Know about Economics I Learned from Online Dating] by Paul Oyer. 2014. 256 pp.
 
 [How to Win Friends and Influence People]: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 [A Book of Five Rings]: https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings
 [The Righteous Mind]: https://www.goodreads.com/book/show/11324722-the-righteous-mind
 [Lying]: https://www.goodreads.com/book/show/18869177-lying
 [Mating in Captivity]: https://www.goodreads.com/book/show/27485.Mating_in_Captivity
-[The Ethical Slut]: https://www.goodreads.com/book/show/54944.The_Ethical_Slut
-[Letters to a Young Contrarian]: https://www.goodreads.com/book/show/503150.Letters_to_a_Young_Contrarian
+[Everything I Ever Needed to Know about Economics I Learned from Online Dating]: https://www.goodreads.com/book/show/17675456-everything-i-ever-needed-to-know-about-economics-i-learned-from-online-d
 
 
 Health & Self-Improvement
@@ -88,7 +86,6 @@ Health & Self-Improvement
 - [Starting Strength] by Mark Rippetoe. 2011. 347 pp.
 - [Becoming a Supple Leopard] by Kelly Starrett. 2013. 400 pp.
 - [A Mind For Numbers] by Barbara Oakley. 2014. 306 pp.
-- [Can't Just Stop] by Sharon Begley. 2017. 304 pp.
 - [12 Rules for Life] by Jordan B. Peterson. 2018. 448 pp.
 - [Tribe of Mentors] by Timothy Ferris. 2017. 623 pp.
 - [A Primer of Drug Action] by Robert M. Julien. 1975. 704 pp.
@@ -98,7 +95,6 @@ Health & Self-Improvement
 [Starting Strength]: https://www.goodreads.com/book/show/40965592-starting-strength
 [Becoming a Supple Leopard]: https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard
 [A Mind For Numbers]: https://www.goodreads.com/book/show/18693655-a-mind-for-numbers
-[Can't Just Stop]: https://www.goodreads.com/book/show/30753848-can-t-just-stop
 [12 Rules for Life]: https://www.goodreads.com/book/show/30257963-12-rules-for-life
 [Tribe of Mentors]: https://www.goodreads.com/book/show/36200111-tribe-of-mentors
 [A Primer of Drug Action]: https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action
@@ -173,22 +169,18 @@ Economics
 -----------
 - [Basic Economics] by Thomas Sowell. 2000. 448 pp.
 - [Economic Facts and Fallacies] by Thomas Sowell. 2007. 262 pp.
-- [The War on Normal People] by Andrew Yang. 2018. 304 pp.
 - [The Communist Manifesto] by Karl Marx, Friedrich Engels. 1848. 288 pp.
 - [Progress and Poverty] by Henry George. 1879. 598 pp.
 - [On Liberty] by John Stuart Mill. 1859. 187 pp.
 - [Poor Economics] by Abhijit V. Banerjee,  Esther Duflo. 2011. 320 pp.
-- [Everything I Ever Needed to Know about Economics I Learned from Online Dating] by Paul Oyer. 2014. 256 pp.
 - [Zero to One] by Peter Thiel,  Blake Masters. 2014. 195 pp.
 - [Sacred Economics] by Charles Eisenstein. 2011. 496 pp.
 
 [Basic Economics]: https://www.goodreads.com/book/show/3023.Basic_Economics
 [Economic Facts and Fallacies]: https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies
-[The War on Normal People]: https://www.goodreads.com/book/show/36204293-the-war-on-normal-people
 [The Communist Manifesto]: https://www.goodreads.com/book/show/30474.The_Communist_Manifesto
 [Progress and Poverty]: https://www.goodreads.com/book/show/552175.Progress_and_Poverty
 [On Liberty]: https://www.goodreads.com/book/show/385228.On_Liberty
 [Poor Economics]: https://www.goodreads.com/book/show/10245602-poor-economics
-[Everything I Ever Needed to Know about Economics I Learned from Online Dating]: https://www.goodreads.com/book/show/17675456-everything-i-ever-needed-to-know-about-economics-i-learned-from-online-d
 [Zero to One]: https://www.goodreads.com/book/show/18050143-zero-to-one
 [Sacred Economics]: https://www.goodreads.com/book/show/11289729-sacred-economics
