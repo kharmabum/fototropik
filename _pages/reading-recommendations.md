@@ -66,6 +66,7 @@ Spirituality
 
 Life & Relationships
 -----------
+- [Hold Me Tight] by Dr. Sue Johnson. 2008. 300 pp.
 - [How to Win Friends and Influence People] by Dale Carnegie. 1936. 288 pp.
 - [A Book of Five Rings] by Miyamoto Musashi. 1645. 192 pp.
 - [The Righteous Mind] by Jonathan Haidt. 2012. 419 pp.
@@ -79,6 +80,7 @@ Life & Relationships
 [Lying]: https://www.goodreads.com/book/show/18869177-lying
 [Mating in Captivity]: https://www.goodreads.com/book/show/27485.Mating_in_Captivity
 [Everything I Ever Needed to Know about Economics I Learned from Online Dating]: https://www.goodreads.com/book/show/17675456-everything-i-ever-needed-to-know-about-economics-i-learned-from-online-d
+[Hold Me Tight]: https://www.goodreads.com/book/show/2153780.Hold_Me_Tight
 
 
 Health & Self-Improvement
