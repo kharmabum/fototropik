@@ -5,6 +5,11 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> “There is a huge and leaden loneliness settling like a frozen winter on so many humans.”
+
+– John O’Donahue
+
+<br>
 > “Unless we are deliberately forgetting the invention of the shipwreck in the invention of the ship or the rail accident in the advent of the train, we need to examine the hidden face of new technologies, before that face reveals itself in spite of us.”
 
 – Paul Virilio
