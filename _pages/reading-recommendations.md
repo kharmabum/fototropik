@@ -48,6 +48,7 @@ Spirituality
 - [Man’s Search for Meaning] by Viktor E. Frankl. 1946. 165 pp.
 - [On the Genealogy of Morality] by Friedrich Nietzsche. 1887. 195 pp.
 - [Walden] by Henry David Thoreau. 1854. 352 pp.
+- [Essential Muir] by John Muir. Editted by Fred White. 2006. 131 pp.
 - [The Middle Length Discourses of the Buddha] translated by Bhikkhu Bodhi. 300 BCE. 1424 pp.
 
 [Siddhartha]: https://www.goodreads.com/book/show/52036.Siddhartha
@@ -62,6 +63,7 @@ Spirituality
 [The Razor's Edge]: https://www.goodreads.com/book/show/31196.The_Razor_s_Edge
 [Walden]: https://www.goodreads.com/book/show/16902.Walden
 [The Middle Length Discourses of the Buddha]: https://www.goodreads.com/book/show/232708.The_Middle_Length_Discourses_of_the_Buddha
+[Essential Muir]: https://www.goodreads.com/book/show/238717.Essential_Muir?from_search=true
 
 
 Life & Relationships
@@ -73,6 +75,7 @@ Life & Relationships
 - [Lying] by Sam Harris. 2011. 47 pp.
 - [Mating in Captivity] by Esther Perel. 2006. 272 pp.
 - [Everything I Ever Needed to Know about Economics I Learned from Online Dating] by Paul Oyer. 2014. 256 pp.
+- [A Calendar of Wisdom] by Leo Tolstoy. 1906. 384 pp.
 
 [How to Win Friends and Influence People]: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 [A Book of Five Rings]: https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings
@@ -81,10 +84,12 @@ Life & Relationships
 [Mating in Captivity]: https://www.goodreads.com/book/show/27485.Mating_in_Captivity
 [Everything I Ever Needed to Know about Economics I Learned from Online Dating]: https://www.goodreads.com/book/show/17675456-everything-i-ever-needed-to-know-about-economics-i-learned-from-online-d
 [Hold Me Tight]: https://www.goodreads.com/book/show/2153780.Hold_Me_Tight
+[A Calendar of Wisdom]: https://www.goodreads.com/book/show/12419.A_Calendar_of_Wisdom
 
 
 Health & Self-Improvement
 -----------
+- [Anticancer] by David Servan-Schreiber. 2007. 274 pp.
 - [Starting Strength] by Mark Rippetoe. 2011. 347 pp.
 - [Becoming a Supple Leopard] by Kelly Starrett. 2013. 400 pp.
 - [A Mind For Numbers] by Barbara Oakley. 2014. 306 pp.
@@ -93,6 +98,8 @@ Health & Self-Improvement
 - [A Primer of Drug Action] by Robert M. Julien. 1975. 704 pp.
 - [How Life Imitates Chess] by Gary Kasparov. 2001. 240 pp.
 - [The Life-Changing Magic of Tidying Up] by Marie Kondo. 2011. 224 pp.
+- [Raw Nerve] by Aaron Swartz.
+- [Scarcity] by Sendhil Mullainathan, Eldar Shafir. 2013. 304 pp.
 
 [Starting Strength]: https://www.goodreads.com/book/show/40965592-starting-strength
 [Becoming a Supple Leopard]: https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard
@@ -102,7 +109,9 @@ Health & Self-Improvement
 [A Primer of Drug Action]: https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action
 [How Life Imitates Chess]: https://www.goodreads.com/book/show/749622.How_Life_Imitates_Chess
 [The Life-Changing Magic of Tidying Up]: https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up
-
+[Raw Nerve]: http://www.aaronsw.com/weblog/rawnerve
+[Anticancer]: https://www.goodreads.com/book/show/1886829.Anticancer_A_New_Way_of_Life?ac=1
+[Scarcity]: https://www.goodreads.com/book/show/17286670-scarcity?ac=1
 
 Writing, Thinking, & Leading
 -----------
@@ -123,9 +132,11 @@ Financial Independence
 -----------
 - [Your Money or Your Life] by Vicki Robin and Joe Dominguez. 1992. 400 pp.
 - [The Simple Path to Wealth] by J.L. Collins. 2016. 288 pp.
+- [The Intelligent Investor] by Benjamin Graham. 1949. 623 pp.
 
 [Your Money or Your Life]: https://www.goodreads.com/book/show/78428.Your_Money_or_Your_Life
 [The Simple Path to Wealth]: https://www.goodreads.com/book/show/30646587-the-simple-path-to-wealth
+[The Intelligent Investor]: https://www.goodreads.com/book/show/106835.The_Intelligent_Investor?ac=1
 
 
 History
