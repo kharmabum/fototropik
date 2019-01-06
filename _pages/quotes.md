@@ -5,32 +5,68 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
-> “There is a huge and leaden loneliness settling like a frozen winter on so many humans.”
+> Let not a person revive the past
+
+> Or on the future build his hopes;
+
+> For the past has been left behind
+
+> And the future has not been reached.
+
+> Instead with insight let him see
+
+> [Each presently arisen state](https://link.springer.com/content/pdf/10.1007%2Fs12671-014-0333-z.pdf);
+
+> Let him know that and be sure of it,
+
+> Invincibly, unshakably.
+
+> Today effort must be made;
+
+> Tomorrow Death may come, who knows?
+
+> No bargain with Mortality
+
+> Can keep him and his hordes away,
+
+> But one who dwells thus ardently,
+
+> Relentlessly, by day and night—
+
+> It is he, the Peaceful Sage has said,
+
+> Who has had a single excellent night.
+
+– Majjhima Nikaya (MN:131)
+
+
+<br>
+> There is a huge and leaden loneliness settling like a frozen winter on so many humans.
 
 – John O’Donahue
 
 <br>
-> “Unless we are deliberately forgetting the invention of the shipwreck in the invention of the ship or the rail accident in the advent of the train, we need to examine the hidden face of new technologies, before that face reveals itself in spite of us.”
+> Unless we are deliberately forgetting the invention of the shipwreck in the invention of the ship or the rail accident in the advent of the train, we need to examine the hidden face of new technologies, before that face reveals itself in spite of us.
 
 – Paul Virilio
 
 <br>
-> “I only wanted to suggest to you that self-sacrifice is a passion so overwhelming that beside it even lust and hunger are trifling."
+> I only wanted to suggest to you that self-sacrifice is a passion so overwhelming that beside it even lust and hunger are trifling.
 
 – W. Somerset Maugham, The Razor's Edge
 
 <br>
-> "Men are on different levels of spiritual development, and so the imagination of India has evolved the manifestations of the Absolute that are known as Brahma, Vishnu, Siva, and by a hundred other names... The multitudinous gods of India are but expedients to lead to the realization that the self is one with the supreme self.”
+> Men are on different levels of spiritual development, and so the imagination of India has evolved the manifestations of the Absolute that are known as Brahma, Vishnu, Siva, and by a hundred other names... The multitudinous gods of India are but expedients to lead to the realization that the self is one with the supreme self.
 
 – W. Somerset Maugham, The Razor's Edge
 
 <br>
-> "What he taught was very simple. He taught that we are all greater than we know and that wisdom is the means to freedom. He taught that it is not essential to salvation to retire from the world, but only to renounce the self. He taught that work done with no selfish interest purifies the mind and that duties are opportunities afforded to man to sink his separate self and become one with the universal self."
+> What he taught was very simple. He taught that we are all greater than we know and that wisdom is the means to freedom. He taught that it is not essential to salvation to retire from the world, but only to renounce the self. He taught that work done with no selfish interest purifies the mind and that duties are opportunities afforded to man to sink his separate self and become one with the universal self.
 
 – W. Somerset Maugham, The Razor's Edge
 
 <br>
-> "It’s a mistake to think that those holy men of India lead useless lives. They are a shining light in the darkness. They represent an ideal that is a refreshment to their fellows; the common run may never attain it, but they respect it and it affects their lives for good. When a man becomes pure and perfect the influence of his character spreads so that they who seek truth are naturally drawn to him. It may be that if I lead the life I’ve planned for myself it may affect others; the effect may be no greater than the ripple caused by a stone thrown in a pond, but one ripple causes another, and that one a third; it’s just possible that a few people will see that my way of life offers happiness and peace, and that they in their turn will teach what they have learnt to others.”
+> It’s a mistake to think that those holy men of India lead useless lives. They are a shining light in the darkness. They represent an ideal that is a refreshment to their fellows; the common run may never attain it, but they respect it and it affects their lives for good. When a man becomes pure and perfect the influence of his character spreads so that they who seek truth are naturally drawn to him. It may be that if I lead the life I’ve planned for myself it may affect others; the effect may be no greater than the ripple caused by a stone thrown in a pond, but one ripple causes another, and that one a third; it’s just possible that a few people will see that my way of life offers happiness and peace, and that they in their turn will teach what they have learnt to others.
 
 – W. Somerset Maugham, The Razor's Edge
 
@@ -204,8 +240,11 @@ permalink: /quotes/
 
 <br>
 > Ah! vainest of all things
+
 > Is the gratitude of kings;
+
 > The plaudits of the crowd
+
 > Are but the clatter of feet.
 
 – [Longfellow](https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow)
