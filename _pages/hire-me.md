@@ -13,7 +13,7 @@ Here are some of the services I offer:
 
 ### Coding
 
-- Bootstrap a new project to demonstrate a proof-of-concept, providing a scalable foundation and helping onboard new engineers to take over development.
+- Bootstrap a new project to demonstrate proof-of-concept, providing a scalable foundation and helping onboard new engineers to take over development.
 - Implement and fully integrate new features into your app including rich, custom UI.
 - Add robust communication between your app and BLE hardware.
 - Migrate critical infrastructure to a Swift web service.
@@ -21,7 +21,7 @@ Here are some of the services I offer:
 ### Devops, debugging, and performance optimization
 
 - Reduce and simplify your project's dependency structure.
-- Add scripts to automate mundane tasks or set up continuous integration to speed up your build and release process.
+- Add scripts to automate mundane tasks and speed up your build and release process.
 - Diagnose performance bottlenecks, bugs, and crashes.
 - Optimize your existing code for speed, memory, and battery usage.
 
@@ -33,9 +33,14 @@ Here are some of the services I offer:
 
 ## More about me
 
+My interests revolve around the application of technology to augment human intelligence, increase empathy, and achieve freedom from necessity.
+
 In the past I've worked on enterprise web applications for doctors, web and mobile SDKs for developers, control interfaces for neurostimulation devices, data visualizations for patients, social networks for healthy communities, and robust messaging apps for college students.
 
-I’ve worked at large companies, at startups, and as an independent contractor. My focus is on doing high quality work while building empathy in the world. When you hire me, you’ll be guaranteed a good working relationship, attention to detail, and a product we can both be proud of.
+I’ve worked at large companies, at startups, and as an independent contractor. My focus is on doing high quality work. When you hire me, you’ll be guaranteed a good working relationship, attention to detail, and a product we can both be proud of.
+
+- [Github](https://github.com/kharmabum)
+- [LinkedIn](https://www.linkedin.com/in/foustjc/)
 
 ## (Some) iOS apps I have worked on:
 
