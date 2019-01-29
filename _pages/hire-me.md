@@ -7,7 +7,7 @@ permalink: /hire-me/
 
 Hello there. I'm Juan-Carlos Foust, an independent consultant who specializes in bringing products to life on iOS. If you want to ship an important new feature or construct a new app from the ground up, [let's talk](mailto:jc@fototropik.com).
 
-## About me
+## More about me
 
 My interests revolve around the application of technology to augment human intelligence, increase empathy, and achieve freedom from necessity.
 
