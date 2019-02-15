@@ -38,6 +38,8 @@ permalink: /film/
 - [Waking Life] (2001)
     - Directed by Richard Linklater
     - Screenplay by Richard Linklater
+- [Rivers and Tides: Andy Goldsworthy Working with Time] (2001)
+    - Directed by Thomas Riedelsheimer
 - [Eternal Sunshine of the Spotless Mind] (2004)
     - Directed by Michel Gondry
     - Screenplay by Charlie Kaufman, Michael Gondry
@@ -80,6 +82,7 @@ permalink: /film/
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
 
+[Rivers and Tides: Andy Goldsworthy Working with Time]:https://www.imdb.com/title/tt0307385
 [Waking Life]: https://www.imdb.com/title/tt0243017/?ref_=fn_al_tt_1
 [Eternal Sunshine of the Spotless Mind]:https://www.imdb.com/title/tt0338013/?ref_=fn_al_tt_1
 [Memento]: https://www.imdb.com/title/tt0209144/?ref_=nv_sr_1
