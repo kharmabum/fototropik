@@ -5,6 +5,16 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> I tell the children folding paper cranes will not stop atomic war, but folding cranes will make friends and friends will not make war.
+
+– Floyd Schmoe
+
+<br>
+> We are chefs. We may not be rich, but we are free.
+
+– Olivier Said, [Kitchen on Fire](https://www.kitchenonfire.com)
+
+<br>
 > Let not a person revive the past
 
 > Or on the future build his hopes;
