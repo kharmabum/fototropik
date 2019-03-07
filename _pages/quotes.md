@@ -10,9 +10,9 @@ permalink: /quotes/
 – Floyd Schmoe
 
 <br>
-> We are chefs. We may not be rich, but we are free.
+> We may not be rich, but we are free.
 
-– Olivier Said, [Kitchen on Fire](https://www.kitchenonfire.com)
+– Olivier Said, Founder of [Kitchen on Fire](https://www.kitchenonfire.com)
 
 <br>
 > Let not a person revive the past
