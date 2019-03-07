@@ -13,8 +13,6 @@ My interests revolve around the application of technology to augment human intel
 
 In the past I've worked on enterprise web applications for doctors, web and mobile SDKs for developers, control interfaces for neurostimulation devices, data visualizations for patients, social networks for healthy communities, and robust messaging apps for college students.
 
-I’ve worked at large companies, at startups, and as an independent contractor. My focus is on doing high quality work. When you hire me, you’ll be guaranteed a good working relationship, attention to detail, and a product we can both be proud of.
-
 - [Github](https://github.com/kharmabum)
 - [LinkedIn](https://www.linkedin.com/in/foustjc/)
 
@@ -38,7 +36,8 @@ Here are some of the services I offer:
 
 ### Advising and code review
 
-- Help refine product goals, define MVP, and distill design and engineering deliverables from product requirements.
+- Facilitate a [product design sprint](https://thoughtbot.com/playbook/product-design-sprint/introduction).
+- Help refine product goals and distill design and engineering deliverables from product requirements.
 - Review code and architectural decisions, make suggestions, and consult on how to implement them.
 - Suggest architectural or organizational changes to reduce complexity, address sources of instability, increase testability, and reduce maintenance costs.
 
