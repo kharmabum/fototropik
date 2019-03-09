@@ -47,6 +47,7 @@ Here are some of the services I offer:
 - Other Chat: [0.28.0 screencast](https://youtu.be/AywCRsZ5Ct0)
 - UP: [iTunes](https://itunes.apple.com/us/app/up-for-up-move-up24-and-wired-up-bands/id461125277?mt=8)
 - UP Coffee: [The Next Web](https://thenextweb.com/apps/2014/03/06/drink-much-coffee-jawbones-coffee-app-will-tell-stop/)
+- DROP: [AppAdvice](https://appadvice.com/app/drop-by-jawbone/917876490)
 - Halo Sport: [iTunes](https://itunes.apple.com/us/app/halo-sport/id1145104454?ls=1&mt=8)
 - 100Plus: [Greatist](https://greatist.com/health/100plus-app-preview), [1.0 screencast](https://www.youtube.com/watch?v=TLkmNsL4Iak)
 
