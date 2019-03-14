@@ -30,7 +30,7 @@ layout: home
     </li>
     <li>
       <h3>
-        <a class="post-link" target="_blank" href="https://pinboard.in/u:fototropik">
+        <a class="post-link" target="_blank" href="https://pinboard.in/u:fototropik/t:newsletter-shared">
           Bookmarks
         </a>
       </h3>

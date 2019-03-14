@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Juan-Carlos Foust, and I am an engineer currently living in the San Francisco Bay Area. I have about eight years of experience building software in a variety of industries and contexts including healthcare, consumer tech, IoT, and start-ups. If you need help working on an iOS project, you can [hire me](/hire-me).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I also volunteer for East Bay Meditation Center; Hack the Hood, and the Burning Man Technology, Ranger, and GP&E departments.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Outside of work and volunteering, I like to cook, surf, and travel.
 
-
-[jekyll-organization]: https://github.com/jekyll
+- [Twitter](https://twitter.com/kharmabum)
+- [Github](https://github.com/kharmabum)
+- [LinkedIn](https://www.linkedin.com/in/foustjc/)
