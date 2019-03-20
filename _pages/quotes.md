@@ -486,9 +486,9 @@ permalink: /quotes/
 – Jiddu Krishnamurti
 
 <br>
-> should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one’s greatest
-<br><br>efforts.
-> — Albert Einstein
+> One should not pursue goals that are easily achieved. One must develop an instinct for what one can just barely achieve through one’s greatest efforts.
+
+— Albert Einstein
 
 <br>
 > We evolve at the rate of the community we are plugged into.
