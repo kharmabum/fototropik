@@ -5,13 +5,13 @@ date:   2018-12-02
 permalink: /hire-me/
 ---
 
-Hello there. I'm Juan-Carlos Foust, an independent consultant who specializes in bringing products to life on iOS. If you want to ship an important new feature or construct a new app from the ground up, [let's talk](mailto:jc@fototropik.com).
+Hello there. I'm Juan-Carlos Foust, an independent consultant who specializes in bringing products to life on iOS. If you want to ship an important feature or construct a new app from the ground up, [let's talk](mailto:jc@fototropik.com).
 
 ## More about me
 
-My interests revolve around the application of technology to augment human intelligence, increase empathy, and achieve freedom from necessity.
-
 In the past I've worked on enterprise web applications for doctors, web and mobile SDKs for developers, control interfaces for neurostimulation devices, data visualizations for patients, social networks for healthy communities, and robust messaging apps for college students.
+
+My interests revolve around the application of technology to augment human intelligence, increase empathy, and achieve freedom from necessity.
 
 - [Github](https://github.com/kharmabum)
 - [LinkedIn](https://www.linkedin.com/in/foustjc/)
