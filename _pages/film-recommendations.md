@@ -17,6 +17,9 @@ permalink: /film/
 - [Rosencrantz & Guildenstern Are Dead] (1990)
     - Directed by Tom Stoppard
     - Screenplay by Tom Stoppard
+- [Baraka] (1992)
+    - Directed by Ron Fricke
+    - Screenplay by Ron Fricke, Mark Magidson
 - [Pulp Fiction] (1994)
     - Directed by Quentin Tarantino
     - Screenplay by Quentin Tarantino
@@ -69,19 +72,28 @@ permalink: /film/
 - [In Bruges] (2008)
     - Directed by Martin McDonagh
     - Screenplay by Martin McDonagh
+- [Samsara] (2011)
+    - Directed by Ron Fricke
+    - Screenplay by Ron Fricke, Mark Magidson
+- [Only Lovers Left Alive] (2013)
+    - Directed by Jim Jarmusch
+    - Screenplay by Jim Jarmusch, Marion Bessay
 - [Upstream Color] (2013)
     - Directed by Shane Carruth
     - Screenplay by Shane Carruth
 - [The Grand Budapest Hotel] (2014)
     - Directed by Wes Anderson
     - Screenplay by Wes Anderson
-- [Macbeth (2015)]
+- [Macbeth] (2015)
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
 - [Roma] (2018)
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
 
+[Only Lovers Left Alive]: https://www.imdb.com/title/tt1714915/?ref_=nv_sr_1
+[Baraka]: https://www.imdb.com/title/tt0103767/?ref_=nv_sr_6
+[Samsara]: https://www.imdb.com/title/tt0770802/?ref_=nv_sr_1
 [Rivers and Tides: Andy Goldsworthy Working with Time]:https://www.imdb.com/title/tt0307385
 [Waking Life]: https://www.imdb.com/title/tt0243017/?ref_=fn_al_tt_1
 [Eternal Sunshine of the Spotless Mind]:https://www.imdb.com/title/tt0338013/?ref_=fn_al_tt_1
