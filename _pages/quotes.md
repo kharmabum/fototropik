@@ -5,6 +5,11 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> In the deeps are the violence and terror of which psychology has warned us, but if you ride these monsters deeper down, if you drop with them farther over the world’s rim, you find what our sciences cannot locate or name, the substrate, the ocean or matrix or ether which buoys the rest, which gives goodness its power for good, and evil its power for evil, the unified field: our complex and inexplicable caring for each other.
+
+– Annie Dillard, [Teaching a Stone to Talk](https://www.goodreads.com/book/show/12534.Teaching_a_Stone_to_Talk)
+
+<br>
 > I tell the children folding paper cranes will not stop atomic war, but folding cranes will make friends and friends will not make war.
 
 – Floyd Schmoe
