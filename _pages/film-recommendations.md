@@ -84,7 +84,7 @@ permalink: /film/
 - [The Grand Budapest Hotel] (2014)
     - Directed by Wes Anderson
     - Screenplay by Wes Anderson
-- [Macbeth] (2015)
+- [Macbeth (2015)]
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
 - [Roma] (2018)
