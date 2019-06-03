@@ -113,6 +113,7 @@ Health & Self-Improvement
 [Anticancer]: https://www.goodreads.com/book/show/1886829.Anticancer_A_New_Way_of_Life?ac=1
 [Scarcity]: https://www.goodreads.com/book/show/17286670-scarcity?ac=1
 
+
 Writing, Thinking, & Leading
 -----------
 - [On Writing Well] by William Zinsser. 1976. 336 pp.
@@ -171,7 +172,9 @@ Science & Philosophy
 - [Finite and Infinite Games] by James P. Carse. 1986. 192 pp.
 - [Metaphors We Live By] by George Lakoff, Mark Johnson. 1980. 276 pp.
 - [As We May Think] by Vannevar Bush. 1945. 10 pp.
+- [Straw Dogs] by John Gray. 2003. 246 pp.
 
+[Straw Dogs]: https://www.goodreads.com/book/show/230733.Straw_Dogs?ac=1&from_search=true
 [The Selfish Gene]: https://www.goodreads.com/book/show/61535.The_Selfish_Gene
 [The Structure of Scientific Revolutions]: https://www.goodreads.com/book/show/61539.The_Structure_of_Scientific_Revolutions
 [Finite and Infinite Games]: https://www.goodreads.com/book/show/189989.Finite_and_Infinite_Games
