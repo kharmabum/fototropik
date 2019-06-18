@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: /about-me/
 ---
 
 <img src="https://f001.backblazeb2.com/file/fototropik/albums/kites-with-bros/kites-with-bros-4.jpg">
