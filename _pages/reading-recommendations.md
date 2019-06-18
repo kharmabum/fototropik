@@ -183,15 +183,16 @@ Science & Philosophy
 
 Economics
 -----------
+- [The Road to Serfdom] by F. A. Hayek. 1944. 274 pp.
 - [Basic Economics] by Thomas Sowell. 2000. 448 pp.
 - [Economic Facts and Fallacies] by Thomas Sowell. 2007. 262 pp.
 - [The Communist Manifesto] by Karl Marx, Friedrich Engels. 1848. 288 pp.
 - [Progress and Poverty] by Henry George. 1879. 598 pp.
-- [On Liberty] by John Stuart Mill. 1859. 187 pp.
 - [Poor Economics] by Abhijit V. Banerjee,  Esther Duflo. 2011. 320 pp.
 - [Zero to One] by Peter Thiel,  Blake Masters. 2014. 195 pp.
 - [Sacred Economics] by Charles Eisenstein. 2011. 496 pp.
 
+[The Road to Serdom]: https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom?ac=1&from_search=true
 [Basic Economics]: https://www.goodreads.com/book/show/3023.Basic_Economics
 [Economic Facts and Fallacies]: https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies
 [The Communist Manifesto]: https://www.goodreads.com/book/show/30474.The_Communist_Manifesto
