@@ -29,5 +29,6 @@ header_pages:
   - _pages/about.md
 plugins:
   - jekyll-feed
+  - jekyll-redirect-from
 base_image_url: https://f001.backblazeb2.com/file/fototropik/albums
 include: ['_pages']

@@ -2,6 +2,7 @@
 layout: page
 title: About Me
 permalink: /about-me/
+redirect_from: /about
 ---
 
 <img src="https://f001.backblazeb2.com/file/fototropik/albums/kites-with-bros/kites-with-bros-4.jpg">
