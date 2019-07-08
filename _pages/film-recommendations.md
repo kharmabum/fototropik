@@ -43,6 +43,9 @@ permalink: /film/
     - Screenplay by Richard Linklater
 - [Rivers and Tides: Andy Goldsworthy Working with Time] (2001)
     - Directed by Thomas Riedelsheimer
+- [Sympathy for Mr. Vengeance] (2002)
+    - Directed by Chan-wook Park
+    - Screenplay by Mu-yeong Lee
 - [Eternal Sunshine of the Spotless Mind] (2004)
     - Directed by Michel Gondry
     - Screenplay by Charlie Kaufman, Michael Gondry
@@ -72,6 +75,9 @@ permalink: /film/
 - [In Bruges] (2008)
     - Directed by Martin McDonagh
     - Screenplay by Martin McDonagh
+- [Mr. Nobody] (2009)
+    - Directed by Jaco Van Dormael
+    - Screenplay by Jaco Van Dormael
 - [Samsara] (2011)
     - Directed by Ron Fricke
     - Screenplay by Ron Fricke, Mark Magidson
@@ -91,6 +97,8 @@ permalink: /film/
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
 
+[Mr. Nobody]: https://www.imdb.com/title/tt0485947/
+[Sympathy for Mr. Vengeance]: https://www.imdb.com/title/tt0310775/
 [Only Lovers Left Alive]: https://www.imdb.com/title/tt1714915/?ref_=nv_sr_1
 [Baraka]: https://www.imdb.com/title/tt0103767/?ref_=nv_sr_6
 [Samsara]: https://www.imdb.com/title/tt0770802/?ref_=nv_sr_1
