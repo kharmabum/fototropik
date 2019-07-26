@@ -192,7 +192,7 @@ Economics
 - [Zero to One] by Peter Thiel,  Blake Masters. 2014. 195 pp.
 - [Sacred Economics] by Charles Eisenstein. 2011. 496 pp.
 
-[The Road to Serdom]: https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom?ac=1&from_search=true
+[The Road to Serfdom]: https://www.goodreads.com/book/show/299215.The_Road_to_Serfdom?ac=1&from_search=true
 [Basic Economics]: https://www.goodreads.com/book/show/3023.Basic_Economics
 [Economic Facts and Fallacies]: https://www.goodreads.com/book/show/2064279.Economic_Facts_and_Fallacies
 [The Communist Manifesto]: https://www.goodreads.com/book/show/30474.The_Communist_Manifesto
