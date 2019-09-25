@@ -90,6 +90,9 @@ permalink: /film/
 - [The Grand Budapest Hotel] (2014)
     - Directed by Wes Anderson
     - Screenplay by Wes Anderson
+- [The Revenant] (2015)
+    - Directed by Alejandro G. Iñárritu
+    - Screenplay by Mark L. Smith, Alejandro G. Iñárritu
 - [Macbeth (2015)]
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
@@ -97,6 +100,7 @@ permalink: /film/
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
 
+[The Revenant]: https://www.imdb.com/title/tt1663202/
 [Mr. Nobody]: https://www.imdb.com/title/tt0485947/
 [Sympathy for Mr. Vengeance]: https://www.imdb.com/title/tt0310775/
 [Only Lovers Left Alive]: https://www.imdb.com/title/tt1714915/?ref_=nv_sr_1
