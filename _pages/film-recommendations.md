@@ -96,10 +96,14 @@ permalink: /film/
 - [Macbeth (2015)]
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
+- [20th Century Women]
+    - Directed by Mike Mills
+    - Screenplay by Mike Mills
 - [Roma] (2018)
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
 
+[20th Century Women]: https://www.imdb.com/title/tt4385888/
 [The Revenant]: https://www.imdb.com/title/tt1663202/
 [Mr. Nobody]: https://www.imdb.com/title/tt0485947/
 [Sympathy for Mr. Vengeance]: https://www.imdb.com/title/tt0310775/
