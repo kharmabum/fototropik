@@ -87,6 +87,9 @@ permalink: /film/
 - [Upstream Color] (2013)
     - Directed by Shane Carruth
     - Screenplay by Shane Carruth
+- [The Salt of the Earth] (2014)
+    - Directed by Juliano Ribeiro Salgado, Wim Wenders
+    - Screenplay by Juliano Ribeiro Salgado, Wim Wenders
 - [The Grand Budapest Hotel] (2014)
     - Directed by Wes Anderson
     - Screenplay by Wes Anderson
@@ -103,6 +106,7 @@ permalink: /film/
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
 
+[The Salt of the Earth]:https://www.imdb.com/title/tt3674140/
 [20th Century Women]: https://www.imdb.com/title/tt4385888/
 [The Revenant]: https://www.imdb.com/title/tt1663202/
 [Mr. Nobody]: https://www.imdb.com/title/tt0485947/
