@@ -37,6 +37,7 @@ Fiction
 
 Spirituality
 -----------
+- [Lame Deer: Seeker of Visions] by John Fire Lame Deer,  Richard Erdoes. 1976. 352 pp.
 - [Siddhartha] by Herman Hesse. 1922. 152 pp.
 - [The Razor's Edge] by W. Somerset Maugham. 1944. 314 pp.
 - [Meditations] by Marcus Aurelius. 180. 254 pp.
@@ -64,68 +65,68 @@ Spirituality
 [Walden]: https://www.goodreads.com/book/show/16902.Walden
 [The Middle Length Discourses of the Buddha]: https://www.goodreads.com/book/show/232708.The_Middle_Length_Discourses_of_the_Buddha
 [Essential Muir]: https://www.goodreads.com/book/show/238717.Essential_Muir?from_search=true
-
+[Lame Deer: Seeker of Visions]: https://www.goodreads.com/book/show/226354.Lame_Deer_Seeker_of_Visions?ac=1&from_search=true&qid=os1wfobpF6&rank=1
 
 Life & Relationships
 -----------
+- [Nonviolent Communication] by Marshall B. Rosenberg. 1999. 220 pp.
+- [When the Past is Present: Healing the Emotional Wounds that Sabotage our Relationships] by David Richo. 2008. 224 pp.
 - [Hold Me Tight] by Dr. Sue Johnson. 2008. 300 pp.
 - [How to Win Friends and Influence People] by Dale Carnegie. 1936. 288 pp.
 - [A Book of Five Rings] by Miyamoto Musashi. 1645. 192 pp.
 - [The Righteous Mind] by Jonathan Haidt. 2012. 419 pp.
 - [Lying] by Sam Harris. 2011. 47 pp.
 - [Mating in Captivity] by Esther Perel. 2006. 272 pp.
-- [Everything I Ever Needed to Know about Economics I Learned from Online Dating] by Paul Oyer. 2014. 256 pp.
-- [A Calendar of Wisdom] by Leo Tolstoy. 1906. 384 pp.
+- [Hot Monogamy] by Patricia Love,  Jo Robinson. 1994. 310 pp.
 
 [How to Win Friends and Influence People]: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 [A Book of Five Rings]: https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings
 [The Righteous Mind]: https://www.goodreads.com/book/show/11324722-the-righteous-mind
 [Lying]: https://www.goodreads.com/book/show/18869177-lying
 [Mating in Captivity]: https://www.goodreads.com/book/show/27485.Mating_in_Captivity
-[Everything I Ever Needed to Know about Economics I Learned from Online Dating]: https://www.goodreads.com/book/show/17675456-everything-i-ever-needed-to-know-about-economics-i-learned-from-online-d
 [Hold Me Tight]: https://www.goodreads.com/book/show/2153780.Hold_Me_Tight
-[A Calendar of Wisdom]: https://www.goodreads.com/book/show/12419.A_Calendar_of_Wisdom
-
+[Hot Monogamy]: https://www.goodreads.com/book/show/80308.Hot_Monogamy
+[Nonviolent Communication]: https://www.goodreads.com/book/show/71730.Nonviolent_Communication
+[When the Past is Present: Healing the Emotional Wounds that Sabotage our Relationships]: https://www.goodreads.com/book/show/2725658-when-the-past-is-present
 
 Health & Self-Improvement
 -----------
+- [Manage Your Energy, Not Your Time] by by Tony Schwartz	and Catherine McCarthy. 2007.
 - [Anticancer] by David Servan-Schreiber. 2007. 274 pp.
 - [Starting Strength] by Mark Rippetoe. 2011. 347 pp.
 - [Becoming a Supple Leopard] by Kelly Starrett. 2013. 400 pp.
 - [A Mind For Numbers] by Barbara Oakley. 2014. 306 pp.
 - [12 Rules for Life] by Jordan B. Peterson. 2018. 448 pp.
 - [Tribe of Mentors] by Timothy Ferris. 2017. 623 pp.
-- [A Primer of Drug Action] by Robert M. Julien. 1975. 704 pp.
 - [How Life Imitates Chess] by Gary Kasparov. 2001. 240 pp.
 - [The Life-Changing Magic of Tidying Up] by Marie Kondo. 2011. 224 pp.
 - [Raw Nerve] by Aaron Swartz.
 - [Scarcity] by Sendhil Mullainathan, Eldar Shafir. 2013. 304 pp.
+- [The Master Key System] by Charles F. Haanel. 1912. 236 pp.
 
 [Starting Strength]: https://www.goodreads.com/book/show/40965592-starting-strength
 [Becoming a Supple Leopard]: https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard
 [A Mind For Numbers]: https://www.goodreads.com/book/show/18693655-a-mind-for-numbers
 [12 Rules for Life]: https://www.goodreads.com/book/show/30257963-12-rules-for-life
 [Tribe of Mentors]: https://www.goodreads.com/book/show/36200111-tribe-of-mentors
-[A Primer of Drug Action]: https://www.goodreads.com/book/show/1134902.A_Primer_of_Drug_Action
 [How Life Imitates Chess]: https://www.goodreads.com/book/show/749622.How_Life_Imitates_Chess
 [The Life-Changing Magic of Tidying Up]: https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up
 [Raw Nerve]: http://www.aaronsw.com/weblog/rawnerve
 [Anticancer]: https://www.goodreads.com/book/show/1886829.Anticancer_A_New_Way_of_Life?ac=1
 [Scarcity]: https://www.goodreads.com/book/show/17286670-scarcity?ac=1
-
+[The Master Key System]: https://www.goodreads.com/book/show/71316.The_Master_Key_System
+[Manage Your Energy, Not Your Time]: https://hbr.org/2007/10/manage-your-energy-not-your-time
 
 Writing, Thinking, & Leading
 -----------
 - [On Writing Well] by William Zinsser. 1976. 336 pp.
 - [Elements of Style] by William Strunk Jr. 1918. 105 pp.
 - [High Output Management] by Andrew S. Grove. 1983. 272 pp.
-- [Organizing Genius] by Warren G. Bennis. 1997. 256 pp.k
 - [Leadership on the Line] by Ronald A. Heifetz. 2002. 272 pp.
 
 [On Writing Well]: https://www.goodreads.com/book/show/53343.On_Writing_Well
 [Elements of Style]: https://www.goodreads.com/book/show/33514.The_Elements_of_Style
 [High Output Management]: https://www.goodreads.com/book/show/324750.High_Output_Management
-[Organizing Genius]: https://www.goodreads.com/book/show/116187.Organizing_Genius
 [Leadership on the Line]: https://www.goodreads.com/book/show/210009.Leadership_on_the_Line
 
 

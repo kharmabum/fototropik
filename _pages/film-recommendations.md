@@ -93,6 +93,11 @@ permalink: /film/
 - [The Grand Budapest Hotel] (2014)
     - Directed by Wes Anderson
     - Screenplay by Wes Anderson
+- [The Roosevelts: An Intimate History] (2014)
+    - Directed by Ken Burns
+- [Embrace of the Serpent] (2015)
+    - Directed by Ciro Guerra
+    - Screenplay by Ciro Guerra (based on the diary of Theodor Koch-Grunberg)
 - [The Revenant] (2015)
     - Directed by Alejandro G. Iñárritu
     - Screenplay by Mark L. Smith, Alejandro G. Iñárritu
@@ -140,3 +145,5 @@ permalink: /film/
 [Upstream Color]: https://www.imdb.com/title/tt2084989/?ref_=fn_al_tt_1
 [The Matrix]: https://www.imdb.com/title/tt0133093/?ref_=fn_al_tt_1
 [Roma]: https://www.imdb.com/title/tt6155172/
+[Embrace of the Serpent]: https://www.imdb.com/title/tt4285496/
+[The Roosevelts: An Intimate History]: https://www.pbs.org/kenburns/the-roosevelts/

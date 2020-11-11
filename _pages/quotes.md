@@ -5,6 +5,39 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> The most terrifying fact about the universe is not that it is hostile but that it is indifferent; but if we can come to terms with this indifference and accept the challenges of life within the boundaries of death — however mutable man may be able to make them — our existence as a species can have genuine meaning and fulfillment. However vast the darkness, we must supply our own light
+
+– Stanley Kubrick
+
+<br>
+> I love you. I’m sorry. Please forgive me. Thank you.
+
+– Hopo Pono Pono prayer
+
+<br>
+> Those who 'abjure' violence can do so only because others are committing violence on their behalf.
+
+– George Orwell
+
+<br>
+> The path to my fixed purpose is laid with iron rails, whereon my soul is grooved to run.
+
+– Herman Melville, [Moby Dick](https://en.wikipedia.org/wiki/Moby-Dick)
+
+<br>
+> The single most important distinction in life is between an opportunity to seize and a temptation to resist.
+
+- Rabbi Lord Jonathan Sacks
+
+<br>
+> Most of the time, we have the option to wait until we arrive in a space of headlessness, and honor the truth of what emerges.
+
+– Unknown
+
+<br>
+> Marshal Rosenberg articulated the consciousness and developed a process that enables us to enter the consciousness. At first, when we are learning [Nonviolent Communication] we employ the process as a vehicle to the consciousness. Once there, we no longer need the vehicle. All we say and do will serve life. When we step out of the consciousness we can use the process to bring us back.
+
+– Myra Walden, [What is Nonviolent Communication](https://www.nonviolentcommunication.com/wp-content/uploads/2020/09/What-is-NVC-Information.pdf)
 
 > This is our big mistake: to think we look forward to death. Most of death is already gone. Whatever time has passed is owned by death.
 
