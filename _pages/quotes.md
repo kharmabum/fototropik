@@ -27,7 +27,7 @@ permalink: /quotes/
 <br>
 > The single most important distinction in life is between an opportunity to seize and a temptation to resist.
 
-- Rabbi Lord Jonathan Sacks
+– Rabbi Lord Jonathan Sacks
 
 <br>
 > Most of the time, we have the option to wait until we arrive in a space of headlessness, and honor the truth of what emerges.
@@ -39,6 +39,7 @@ permalink: /quotes/
 
 – Myra Walden, [What is Nonviolent Communication](https://www.nonviolentcommunication.com/wp-content/uploads/2020/09/What-is-NVC-Information.pdf)
 
+<br>
 > This is our big mistake: to think we look forward to death. Most of death is already gone. Whatever time has passed is owned by death.
 
 – Seneca
