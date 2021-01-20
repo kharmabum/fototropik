@@ -4,7 +4,11 @@ title:  "Quotes"
 date:   2018-12-02
 permalink: /quotes/
 ---
+> These plants and fungi are gifts from Nature, symbiotic partners in our long evolutionary journey from apes to angels.
 
+– [Dennis McKenna](https://mckenna.academy)
+
+<br>
 > The most terrifying fact about the universe is not that it is hostile but that it is indifferent; but if we can come to terms with this indifference and accept the challenges of life within the boundaries of death — however mutable man may be able to make them — our existence as a species can have genuine meaning and fulfillment. However vast the darkness, we must supply our own light
 
 – Stanley Kubrick
