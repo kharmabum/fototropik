@@ -110,6 +110,9 @@ permalink: /film/
 - [Roma] (2018)
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
+- [The Phenomenon] (2020)
+    - Directed by James Fox
+    - Written by Marc Barasch
 
 [The Salt of the Earth]:https://www.imdb.com/title/tt3674140/
 [20th Century Women]: https://www.imdb.com/title/tt4385888/
@@ -147,3 +150,4 @@ permalink: /film/
 [Embrace of the Serpent]: https://www.imdb.com/title/tt4285496/
 [The Roosevelts: An Intimate History]: https://www.pbs.org/kenburns/the-roosevelts/
 [The Killing of a Sacred Deer]: https://www.imdb.com/title/tt5715874/
+[The Phenomenon]: https://www.imdb.com/title/tt13095604
