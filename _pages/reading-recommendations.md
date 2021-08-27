@@ -12,6 +12,8 @@ Fiction
 - [The Once And Future King] by T.H. White. 1958. 639 pp.
 - [Robinson Crusoe] by Daniel Defoe. 1719. 320 pp.
 - [Ender's Game] by Orson Scott Card. 1994. 324 pp.
+- [Hart's Hope] by Orson Scott Card. 2003. 300 pp.
+- [A Planet Called Treason] by Orson Scott Card. 1980. 299 pp. 
 - [1984] by George Orwell. 1949. 237 pp.
 - [Snow Crash] by Neal Stephenson. 1992. 480 pp.
 - [All Quiet on the Western Front] by Erich Maria Remarque. 1929. 296 pp.
@@ -20,6 +22,7 @@ Fiction
 - [The Other Wind] by Ursula K. Le Guin. 2001. 211 pp.
 - [The Amber Spyglass] by Philip Pullman. 2000. 467 pp.
 - [Taliesin] by Stephen R. Lawhead. 1987. 496 pp.
+- [The Sense of an Ending] by Julian Barnes. 2011. 150 pp.
 
 [Robinson Crusoe]: https://www.goodreads.com/book/show/2932.Robinson_Crusoe
 [Dune]: https://www.goodreads.com/book/show/234225.Dune
@@ -33,6 +36,9 @@ Fiction
 [The Other Wind]: https://www.goodreads.com/book/show/13658.The_Other_Wind
 [The Amber Spyglass]: https://www.goodreads.com/book/show/18122.The_Amber_Spyglass
 [Taliesin]: https://www.goodreads.com/book/show/73906.Taliesin
+[The Sense of an Ending]: https://www.goodreads.com/book/show/10746542-the-sense-of-an-ending
+[Hart's Hope]: https://www.goodreads.com/book/show/95573.Hart_s_Hope
+[A Planet Called Treason]: https://www.goodreads.com/book/show/92974.A_Planet_Called_Treason
 
 
 Spirituality
@@ -51,6 +57,7 @@ Spirituality
 - [Walden] by Henry David Thoreau. 1854. 352 pp.
 - [Essential Muir] by John Muir. Editted by Fred White. 2006. 131 pp.
 - [The Middle Length Discourses of the Buddha] translated by Bhikkhu Bodhi. 300 BCE. 1424 pp.
+- [The Wind is My Mother] by Bear Heart. 1998. 288 pp.
 
 [Siddhartha]: https://www.goodreads.com/book/show/52036.Siddhartha
 [Meditations]: https://www.goodreads.com/book/show/30659.Meditations
@@ -66,6 +73,7 @@ Spirituality
 [The Middle Length Discourses of the Buddha]: https://www.goodreads.com/book/show/232708.The_Middle_Length_Discourses_of_the_Buddha
 [Essential Muir]: https://www.goodreads.com/book/show/238717.Essential_Muir?from_search=true
 [Lame Deer: Seeker of Visions]: https://www.goodreads.com/book/show/226354.Lame_Deer_Seeker_of_Visions?ac=1&from_search=true&qid=os1wfobpF6&rank=1
+[The Wind is My Mother]: https://www.goodreads.com/book/show/887542.The_Wind_Is_My_Mother
 
 Life & Relationships
 -----------
@@ -78,6 +86,7 @@ Life & Relationships
 - [Lying] by Sam Harris. 2011. 47 pp.
 - [Mating in Captivity] by Esther Perel. 2006. 272 pp.
 - [Hot Monogamy] by Patricia Love,  Jo Robinson. 1994. 310 pp.
+- [Death be Not Proud] by John Gunther. 1998. 206 pp.
 
 [How to Win Friends and Influence People]: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 [A Book of Five Rings]: https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings
@@ -88,6 +97,7 @@ Life & Relationships
 [Hot Monogamy]: https://www.goodreads.com/book/show/80308.Hot_Monogamy
 [Nonviolent Communication]: https://www.goodreads.com/book/show/71730.Nonviolent_Communication
 [When the Past is Present: Healing the Emotional Wounds that Sabotage our Relationships]: https://www.goodreads.com/book/show/2725658-when-the-past-is-present
+[Death be Not Proud]: https://www.goodreads.com/book/show/486298.Death_Be_Not_Proud
 
 Health & Self-Improvement
 -----------

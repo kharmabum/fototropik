@@ -58,9 +58,6 @@ permalink: /film/
 - [Brick] (2005)
     - Directed by Rian Johnson
     - Screenplay by Rian Johnson
-- [Kiss Kiss Bang Bang] (2005)
-    - Directed by Shane Black
-    - Screenplay by Shane Black
 - [Shortbus] (2006)
     - Directed by John Cameron Mitchell
     - Screenplay by John Cameron Mitchell
@@ -104,9 +101,12 @@ permalink: /film/
 - [Macbeth (2015)]
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
-- [20th Century Women]
+- [20th Century Women] (2016)
     - Directed by Mike Mills
     - Screenplay by Mike Mills
+- [The Killing of a Sacred Deer] (2017)
+    - Directed by Yorgos Lanthimos
+    - Screenplay by Yorgos Lanthimos, Efthymis Filippou
 - [Roma] (2018)
     - Directed by Alfonso Cuarón
     - Screenplay by Alfonso Cuarón
@@ -134,7 +134,6 @@ permalink: /film/
 [Man on Wire]: https://www.imdb.com/title/tt1155592/?ref_=fn_al_tt_1
 [2001: A Space Odyssey]: https://www.imdb.com/title/tt0062622/?ref_=fn_al_tt_1
 [Brick]: https://www.imdb.com/title/tt0393109/?ref_=fn_al_tt_2
-[Kiss Kiss Bang Bang]: https://www.imdb.com/title/tt0373469/?ref_=fn_al_tt_1
 [In Bruges]: https://www.imdb.com/title/tt0780536/?ref_=fn_al_tt_1
 [Rosencrantz & Guildenstern Are Dead]: https://www.imdb.com/title/tt0100519/?ref_=fn_al_tt_2
 [The Motorcycle Diaries]: https://www.imdb.com/title/tt0318462/?ref_=fn_al_tt_1
@@ -147,3 +146,4 @@ permalink: /film/
 [Roma]: https://www.imdb.com/title/tt6155172/
 [Embrace of the Serpent]: https://www.imdb.com/title/tt4285496/
 [The Roosevelts: An Intimate History]: https://www.pbs.org/kenburns/the-roosevelts/
+[The Killing of a Sacred Deer]: https://www.imdb.com/title/tt5715874/
