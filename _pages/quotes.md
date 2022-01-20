@@ -8,7 +8,7 @@ permalink: /quotes/
 
 – [Rabbi Heschel](https://onbeing.org/programs/kevin-kling-the-losses-we-grow-into/)
 
-<br> 
+<br>
 > Success is as dangerous as failure. Hope is as hollow as fear.
 
 – Tao Te Ching
@@ -37,11 +37,6 @@ permalink: /quotes/
 > If the world is to be healed through human efforts, I am convinced it will be by ordinary people, people whose love for this life is even greater than their fear.
 
 – Joanna R. Macy
-
-<br>
-> I imagine one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, they will be forced to deal with pain.
-
-– James Baldwin
 
 <br>
 > I imagine one of the reasons people cling to their hates so stubbornly is because they sense, once hate is gone, they will be forced to deal with pain.
