@@ -11,7 +11,7 @@ My name is Juan-Carlos Foust. I am an engineer living in the Pacific Northwest a
 
 I volunteer for Decriminalize Nature and Burning Man's Technology, Ranger, and GP&E departments.
 
-Outside of work and volunteering, I enjoy reading and learning.
+Outside of work and volunteering, I enjoy reading, traveling, movement, and stillness.
 
 - [Twitter](https://twitter.com/kharmabum)
 - [Github](https://github.com/kharmabum)
