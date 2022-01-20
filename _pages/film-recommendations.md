@@ -101,6 +101,9 @@ permalink: /film/
 - [Macbeth (2015)]
     - Directed by Justin Kurzel
     - Screenplay by Todd Louis, Jacob Koskoff
+- [The Handmaiden] (2016)
+    - Directed by Park Chan-wook
+    - Written by Seo-kyeong Jeong, Park Chan-wook
 - [20th Century Women] (2016)
     - Directed by Mike Mills
     - Screenplay by Mike Mills
@@ -113,6 +116,9 @@ permalink: /film/
 - [The Phenomenon] (2020)
     - Directed by James Fox
     - Written by Marc Barasch
+- [The Tragedy of Macbeth] (2021)
+    - Directed by Joel Coen
+    - Screenplay by Joel Coen
 
 [The Salt of the Earth]:https://www.imdb.com/title/tt3674140/
 [20th Century Women]: https://www.imdb.com/title/tt4385888/
@@ -151,3 +157,5 @@ permalink: /film/
 [The Roosevelts: An Intimate History]: https://www.pbs.org/kenburns/the-roosevelts/
 [The Killing of a Sacred Deer]: https://www.imdb.com/title/tt5715874/
 [The Phenomenon]: https://www.imdb.com/title/tt13095604
+[The Tragedy of Macbeth]: https://www.imdb.com/title/tt10095582/
+[The Handmaiden]: https://www.imdb.com/title/tt4016934/

@@ -42,4 +42,11 @@ layout: home
         </a>
       </h3>
     </li>
+    <li>
+      <h3>
+        <a class="post-link" href="/epigrams">
+          Epigrams
+        </a>
+      </h3>
+    </li>
   </ul>
