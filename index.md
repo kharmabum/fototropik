@@ -73,7 +73,7 @@ layout: home
     <li>
       <h3>
         <a class="post-link" href="/prayers">
-          Prayers, Mantras, & Invocations
+          Prayers, Mantras, & Blessings
         </a>
       </h3>
     </li>

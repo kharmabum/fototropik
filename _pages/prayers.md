@@ -1,51 +1,51 @@
 ---
 layout: page
-title:  "Prayers, Mantras, & Invocations"
+title:  "Prayers, Mantras, & Blessings"
 date:   2022-09-19
 permalink: /prayers/
 ---
 
-> In the name of the Daybreak
+> In the name of the daybreak
 
-> And the eyelids of Morning
+> And the eyelids of morning
 
-> And the wayfaring Moon
+> And the wayfaring moon
 
-> And the Night when it departs
+> And the night when it departs
 
 > I swear I will not dishonor my soul with hatred
 
 > But offer myself humbly
 
-> As a Guardian of Nature
+> As a guardian of nature
 
-> As a Healer of Misery
+> As a healer of misery
 
-> As a Messenger of Wonder
+> As a messenger of wonder
 
-> As an Architect of Peace
+> As an architect of peace
 
-> In the name of the Sun and its mirrors
+> In the name of the sun and its mirrors
 
-> And the Day that embraces it
+> And the day that embraces it
 
 > And the cloud veils drawn over it
 
-> And the Uttermost Night
+> And the uttermost night
 
-> And the Male and the Female
+> And the male and the female
 
-> And the Plants bursting with seed
+> And the plants bursting with seed
 
-> And the crowning seasons of the Firefly and the Apple
+> And the crowning seasons of the firefly and the apple
 
-> I will honor all Life
+> I will honor all life
 
 > Wherever and in whatever form it may dwell
 
-> On Earth my Home
+> On Earth my home
 
-> And in the mansions of the Stars
+> And in the mansions of the stars
 
 – School Prayer
 
@@ -70,11 +70,11 @@ permalink: /prayers/
 
 > Until I reach full Enlightenment
 
-> Enthused by Wisdom and Compassion
+> Enthused by wisdom and compassion
 
 > Today in the Buddha' presence
 
-> I generate the Mind for Full Awakening
+> I generate the mind for full awakening
 
 > For the benefit of all sentient beings
 
@@ -139,7 +139,7 @@ permalink: /prayers/
 
 > Until everyone is healed
 
-> Just like Space
+> Just like space
 
 > And the great elements such as Earth
 
@@ -149,13 +149,11 @@ permalink: /prayers/
 
 > And until they pass away from pain
 
-> May I also be the Source of Life
+> May I also be the source of life
 
 > For all the realms of varied beings
 
-> That reach unto the ends of Space.
-
-> Or on the future build his hopes;
+> That reach unto the ends of space.
 
 – Shantideva's Prayer
 
