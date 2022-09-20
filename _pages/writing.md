@@ -1,0 +1,13 @@
+---
+layout: page
+title:  "Writing"
+date:   2018-12-02
+permalink: /writing/
+---
+
+
+## [Microdosing with Plant Medicines](https://docs.google.com/document/d/1VuFszCdP7VwmPll7rB7pXIODq1OUILUsRPvbXl0-lEk/edit#heading=h.ilu0xbsv2m1d)
+
+## [Cultivating Sacred Mushrooms](https://docs.google.com/document/d/1994ygs7OGm0BNMUV8pSfjuDCrf4bRXMNjf01DJQDcJc/edit#heading=h.7na51p6hcphx)
+
+## [What is Dana?](https://docs.google.com/document/d/19OLBebr0vncDfxfq8TfdwQ2K9L_1LRYQiDJYBqDsKpY/edit#heading=h.drs982cuynx1) 

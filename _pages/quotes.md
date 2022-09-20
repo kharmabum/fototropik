@@ -4,6 +4,85 @@ title:  "Quotes"
 date:   2018-12-02
 permalink: /quotes/
 ---
+
+> More than once when I
+
+> Sat all alone, revolving in myself
+
+> The word that is the symbol of myself,
+
+> The mortal limit of the Self was loosed,
+
+> And passed into the nameless, as a cloud
+
+> Melts into heaven. I touch’d my limbs, the limbs
+
+ > Were strange, not mine—and yet no shade of doubt,
+
+> But utter clearness, and thro’ loss of Self
+
+> The gain of such large life as matched with ours
+
+> Were sun to spark—unshadowable in words,
+
+> Themselves but shadows of a shadow-world”
+
+
+― Alfred Lord Tennyson
+
+<br>
+
+
+> All this visible universe is not unique in nature and we must believe there are, in other regions of space, other worlds, other beings and other men.”
+
+– Lucretius, 99-55 BC
+
+<br>
+
+> The origin of life may correspond to a physical transition associated with a shift in causal structure where information gains direct and context dependent causal efficacy over the matter it is instantiated in.”
+
+— [Sarah Walker](https://twitter.com/Sara_Imari)
+
+<br>
+
+
+> Bravery comes along with the gradual accumulation of discipline”
+
+– Buzz Aldrin
+
+
+<br>
+
+> Wisdom tells me I am nothing. Love tells me I am everything. And between the two my life flows.
+
+– Nisargadatta Maharaj
+
+<br>
+
+> Life lessons will be presented to you in the order they are needed. Everything you need to master the lesson is within you. Once you have truly learned a lesson, you will be presented with the next one. If you are alive, that means you still have lessons to learn.
+
+– [Kevin Kelly](https://kk.org/thetechnium/103-bits-of-advice-i-wish-i-had-known/)
+
+<br>
+
+> Don't explain your philosophy. Embody it.
+
+– Epictetus
+
+<br>
+
+> My worry is that we're going to get to a situation where we're spending all of our money just trying to stay alive.
+
+– [Andrew Dessler](https://open.spotify.com/episode/5SvYrFlHAU2QbGamJebp3B?si=7584957df1854133&nd=1), climate scientist
+
+<br>
+
+> Before you speak, let your words pass through three gates. At the first gate, ask yourself, “Is it true?” At the second gate ask, “Is it necessary?” At the third gate ask, “Is it kind?
+
+– Rumi
+
+<br>
+
 > When we pray, don’t pray to get things, pray to be worthy to get things.
 
 – [Rabbi Heschel](https://onbeing.org/programs/kevin-kling-the-losses-we-grow-into/)

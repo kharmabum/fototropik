@@ -15,6 +15,14 @@ layout: home
       </h3>
     </li>
     <li>
+    <li>
+      <h3>
+        <a class="post-link" href="/writing">
+          Writing
+        </a>
+      </h3>
+    </li>
+    <li>
       <h3>
         <a class="post-link" href="/reading">
           Book Recommendations
@@ -25,6 +33,13 @@ layout: home
       <h3>
         <a class="post-link" href="/film">
           Film Recommendations
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a class="post-link" target="_blank" href="https://open.spotify.com/user/124804004?si=cca4737fdc824146">
+          Music Recommendations
         </a>
       </h3>
     </li>
@@ -46,6 +61,20 @@ layout: home
       <h3>
         <a class="post-link" href="/epigrams">
           Epigrams
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a class="post-link" href="/questions">
+          Questions
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a class="post-link" href="/prayers">
+          Prayers, Mantras, & Invocations
         </a>
       </h3>
     </li>
