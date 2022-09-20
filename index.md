@@ -15,7 +15,6 @@ layout: home
       </h3>
     </li>
     <li>
-    <li>
       <h3>
         <a class="post-link" href="/writing">
           Writing

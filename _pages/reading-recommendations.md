@@ -59,6 +59,7 @@ Spirituality
 - [The Middle Length Discourses of the Buddha] translated by Bhikkhu Bodhi. 300 BCE. 1424 pp.
 - [The Wind is My Mother] by Bear Heart. 1998. 288 pp.
 - [Death be Not Proud] by John Gunther. 1998. 206 pp.
+- [Your Symphony of Selves] by James Fadiman and Jordan Gruber. 2020. 434 pp
 
 [Siddhartha]: https://www.goodreads.com/book/show/52036.Siddhartha
 [Meditations]: https://www.goodreads.com/book/show/30659.Meditations
@@ -76,6 +77,7 @@ Spirituality
 [The Wind is My Mother]: https://www.goodreads.com/book/show/887542.The_Wind_Is_My_Mother
 [Zen: The Authentic Gate]: https://www.goodreads.com/book/show/25726673-zen
 [Death be Not Proud]: https://www.goodreads.com/book/show/486298.Death_Be_Not_Proud
+[Your Symphony of Selves]: https://www.theosophical.org/publications/quest-magazine/5014-your-symphony-of-selves-discover-and-understand-more-of-who-we-are
 
 Life & Relationships
 -----------

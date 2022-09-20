@@ -49,7 +49,7 @@ permalink: /prayers/
 
 – School Prayer
 
-< br >
+<br>
 
 > I bow with humility
 
@@ -92,7 +92,7 @@ permalink: /prayers/
 
 > Tell your story around the fire and feel its power, tell it again and you are forgiven, tell it three times and you are no longer welcome around the fire until you have found the new story to tell within you.  
 
-- Toltec invocation
+– Toltec invocation
 
 <br>
 
@@ -102,9 +102,7 @@ permalink: /prayers/
 
 <br>
 
-> I can let go of this. I can let go of this too. I can let go of this soon.
-
-– 2020
+> I can let go of this; I can let go of this too; I can let go of this soon.
 
 <br>
 
