@@ -4,6 +4,13 @@ title:  "Epigrams"
 date:   2018-12-02
 permalink: /epigrams/
 ---
+
+> Letting go of things is also choosing to be happy.
+
+– [September 15, 2022](https://twitter.com/kharmabum/status/1570668338233348102)
+
+<br>
+
 > Good vibes are good medicine, unease is contagious, and stillness is the memetic prophylaxis that washes ours and our community’s minds clean.
 
 – [Dec 18, 2021](https://twitter.com/kharmabum/status/1472452127372894211)
