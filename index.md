@@ -66,7 +66,7 @@ layout: home
     <li>
       <h3>
         <a class="post-link" href="/questions">
-          Questions
+          Questions & Journal Prompts
         </a>
       </h3>
     </li>
