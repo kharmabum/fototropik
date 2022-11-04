@@ -45,20 +45,20 @@ permalink: /quotes/
 <br>
 
 
-> All this visible universe is not unique in nature and we must believe there are, in other regions of space, other worlds, other beings and other men.”
+> All this visible universe is not unique in nature and we must believe there are, in other regions of space, other worlds, other beings and other men.
 
 – Lucretius, 99-55 BC
 
 <br>
 
-> The origin of life may correspond to a physical transition associated with a shift in causal structure where information gains direct and context dependent causal efficacy over the matter it is instantiated in.”
+> The origin of life may correspond to a physical transition associated with a shift in causal structure where information gains direct and context dependent causal efficacy over the matter it is instantiated in.
 
 — [Sarah Walker](https://twitter.com/Sara_Imari)
 
 <br>
 
 
-> Bravery comes along with the gradual accumulation of discipline”
+> Bravery comes along with the gradual accumulation of discipline
 
 – Buzz Aldrin
 
