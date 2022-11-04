@@ -18,3 +18,7 @@ permalink: /questions/
 #### Are we treating this like a checkbox? Are we looking for a simple solution to a complicated problem?
 
 #### Is the juice worth the squeeze?
+
+#### Whom does this really serve?
+
+#### What does love look like in this moment?

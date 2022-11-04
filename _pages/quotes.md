@@ -5,6 +5,18 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> Extremes take the brain into the place where trauma can actually be re-patterned.
+
+– Joshua Schrei, [On Trauma and Vegetation Gods](https://open.spotify.com/episode/5rt3KyFrHbxVPEmhtfYRQ0?si=4dd1a424866640c8)
+
+<br>
+
+> Meditation is a lie, when we try to control the mind or hold on to an experience, we don’t see the innate perfection of the present moment… pure awareness is like space, boundless and open. It’s always here: you don’t have to make it up. All you have to do is rest in it.
+
+– [Tulku Urgyen Rinpoche](https://learning.tergar.org/wp-content/uploads/pdf/Beyond-Meditation.pdf)
+
+<br>
+
 > More than once when I
 
 > Sat all alone, revolving in myself

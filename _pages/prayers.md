@@ -5,6 +5,10 @@ date:   2022-09-19
 permalink: /prayers/
 ---
 
+> First, I am water.
+
+<br>
+
 > In the name of the daybreak
 
 > And the eyelids of morning

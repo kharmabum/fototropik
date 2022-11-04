@@ -7,9 +7,13 @@ redirect_from: /about
 
 <img src="https://f001.backblazeb2.com/file/fototropik/albums/ruston/ruston-3.jpg">
 
-Aloha. My name is Juan-Carlos Foust. I was born in Puerto Rico and raised in the southeastern United States. My mother's family is Puerto Rican descended from Spanish. My father's American descended from German and Irish. I moved to California in 2009 and have called the Olympic Peninsula in Washington state home since October 2020. Much of my personal time is spent volunteering with the [Port Townsend Psychedelic Society][ptps] and [REACH WA](https://reachwa.org), the Responsible Entheogen Access and Community Healing Coalition. As an engineer at [Zymergen] (now [Ginkgo Bioworks][ginkgo]), I build tools to train microscopic organisms how to more sustainably produce useful compounds without reliance on fossil fuels as feedstock. From 2019-2022 I helped accelerate the decarbonization of our electrical grid by developing energy trading systems for sources of renewable power. I believe we are here to be compassionate and to help the universe know itself.
+Aloha. My name is Juan-Carlos Foust. I was born in Puerto Rico and raised in the southeastern United States. My mother's family is Puerto Rican descended from Spanish and Taino. My father is descended from German and Irish. I moved to California in 2009 and have called the Olympic Peninsula in Washington state home since October 2020.
 
-I also volunteer for Burning Man's Technology, Ranger, and GP&E departments.
+I'm on the core leadership teams of the [Port Townsend Psychedelic Society][ptps] and [REACH WA](https://reachwa.org), the Responsible Entheogen Access and Community Healing Coalition. I'm also an ambassador to the [Heroic Hearts Project](https://www.heroicheartsproject.org) and a contributing writer to HowToUsePsychedelics.com.
+
+Professionally I work as an engineer at [Zymergen] (now [Ginkgo Bioworks][ginkgo]) where I build tools to communicate with microscopic organisms, teaching them how to sustainably produce useful compounds without reliance on fossil fuels as feedstock. From 2019-2022 I helped accelerate the decarbonization of our electrical grid by developing energy trading systems for sources of renewable power.
+
+Finally, I am student of all the Abrahamic religions, Buddhism, Taoism, animist mythology, and the sacred plant and fungi teachers. I believe we are here to be compassionate and to help the universe know itself.
 
 Outside of work and volunteering, I enjoy reading, traveling, movement, and stillness.
 
