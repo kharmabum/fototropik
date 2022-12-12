@@ -11,7 +11,7 @@ Aloha. My name is Juan-Carlos Foust. I was born in Puerto Rico and raised in the
 
 I'm an organizer within the [Port Townsend Psychedelic Society][ptps] and [REACH WA](https://reachwa.org) (the Responsible Entheogen Access and Community Healing Coalition), an ambassador to the [Heroic Hearts Project](https://www.heroicheartsproject.org), and a contributing writer to [HowToUsePsychedelics.com](https://HowToUsePsychedelics.com).
 
-I also work as an engineer at [Zymergen] (now [Ginkgo Bioworks][ginkgo]) where I build tools to communicate with microscopic organisms, teaching them how to sustainably produce useful compounds without reliance on fossil fuels as feedstock.
+I also work as an engineer at [Zymergen] (now [Ginkgo Bioworks][ginkgo]) where I build tools to communicate with microscopic organisms, teaching them how to sustainably produce useful compounds such as medicines without reliance on fossil fuels as feedstock.
 
 I am student of all my relations, scripture, mythology, and deep presence. I believe we are here to be compassionate and to help the universe know itself.
 
