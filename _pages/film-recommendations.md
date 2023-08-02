@@ -72,6 +72,9 @@ permalink: /film/
 - [In Bruges] (2008)
     - Directed by Martin McDonagh
     - Screenplay by Martin McDonagh
+- [The Hurt Locker] (2008)
+    - Directed by Kathryn Bigelow
+    - Screenplay by Mark Boal
 - [Mr. Nobody] (2009)
     - Directed by Jaco Van Dormael
     - Screenplay by Jaco Van Dormael
@@ -159,3 +162,4 @@ permalink: /film/
 [The Phenomenon]: https://www.imdb.com/title/tt13095604
 [The Tragedy of Macbeth]: https://www.imdb.com/title/tt10095582/
 [The Handmaiden]: https://www.imdb.com/title/tt4016934/
+[The Hurt Locker]: https://www.imdb.com/title/tt0887912/

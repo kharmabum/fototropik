@@ -5,6 +5,20 @@ date:   2018-12-02
 permalink: /epigrams/
 ---
 
+> When life leaves and enters this world, attention and the ritual that supports it find their highest resonance.
+
+<br> 
+
+> Find the fear, shame, and grief and send them all love.
+
+<br> 
+
+> Noticing the ways our relationships change can help us navigate our own evolution.
+
+– [April 24, 2023](https://twitter.com/kharmabum/status/1650698722865745926) 
+
+<br> 
+
 > Letting go of things is also choosing to be happy.
 
 – [September 15, 2022](https://twitter.com/kharmabum/status/1570668338233348102)

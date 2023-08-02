@@ -5,6 +5,34 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> Hatred never ceases by hatred but by love alone is healed. This is an ancient and eternal law.
+
+— [Siddhārtha Gautama](https://en.wikipedia.org/wiki/The_Buddha)
+
+<br>
+
+> Leonard Cohen said his teacher once told him that, the older you get, the lonelier you become, and the deeper the love you need. This is because, as we go through life, we tend to over-identify with being the hero of our stories. 
+
+> This hero isn’t exactly having fun: he’s getting kicked around, humiliated, and disgraced. But if we can let go of identifying with him, we can find our rightful place in the universe, and a love more satisfying than any we’ve ever known.
+
+> People constantly throw around the term “hero’s journey” without having any idea what it really means. Everyone from CEOs to wellness influencers thinks the hero’s journey means facing your fears, slaying a dragon, and gaining 25k followers on Instagram. But that’s not the real hero’s journey.
+
+> In the real hero’s journey, the dragon slays YOU. Much to your surprise, you couldn’t make that marriage work. Much to your surprise, you turned forty with no kids, no house, and no prospects. Much to your surprise, the world didn’t want the gifts you proudly offered it.
+
+> If you are foolish, this is where you will abort the journey and start another, and another, abusing your heart over and over for the brief illusion of winning. But if you are wise, you will let yourself be shattered, and return to the village, humbled, but with a newfound sense that you don’t have to identify with the part of you that needs to win, needs to be recognized, needs to know. This is where your transcendent life begins.
+
+> So embrace humility in everything. Life isn’t out to get you, nor are your struggles your fault. Every defeat is just an angel, tugging at your sleeve, telling you that you don’t have to keep banging your head against the wall. Leave that striver there, trapped in his lonely ambitions. Just walk away, and life in its vastness will embrace you.
+
+— [Paul Weinfield](https://en.wikipedia.org/wiki/Paul_Winfield)
+
+<br>
+
+> Hatred paralyzes life; love releases it. Hatred confuses life; love harmonizes it. Hatred darkens life; love illuminates it. Hate is too great a burden to bear. I have decided to love." 
+
+– [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+
+<br>
+
 > Extremes take the brain into the place where trauma can actually be re-patterned.
 
 – Joshua Schrei, [On Trauma and Vegetation Gods](https://open.spotify.com/episode/5rt3KyFrHbxVPEmhtfYRQ0?si=4dd1a424866640c8)
@@ -29,7 +57,7 @@ permalink: /quotes/
 
 > Melts into heaven. I touch’d my limbs, the limbs
 
- > Were strange, not mine—and yet no shade of doubt,
+> Were strange, not mine—and yet no shade of doubt,
 
 > But utter clearness, and thro’ loss of Self
 

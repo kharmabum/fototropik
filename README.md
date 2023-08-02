@@ -7,7 +7,13 @@ The site is packaged with [Jekyll] a static site generator. This means I can wri
 
 I use [Github Pages] to host the site, [Google Domains] as a domain name registrar, and [B2 Cloud Storage] to host large static assets (images, video, PDFs, etc).
 
+## Installation
 
+```bash
+brew install ruby # update PATH as needed
+bundle install
+bundle exec jekyll serve
+```
 
 [personal website]: http://fototropik.com
 [Jekyll]: https://jekyllrb.com/docs/
