@@ -5,6 +5,13 @@ date:   2018-12-02
 permalink: /epigrams/
 ---
 
+> The hardest problems I've discovered so far:
+> - Choosing where to put my limited energy
+> - Balancing allowing and efforting 
+> - Accepting the reality of Life itself
+
+<br>
+
 > When life leaves and enters this world, attention and the ritual that supports it find their highest resonance.
 
 <br> 
