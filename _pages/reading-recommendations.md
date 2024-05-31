@@ -23,7 +23,9 @@ Fiction
 - [The Amber Spyglass] by Philip Pullman. 2000. 467 pp.
 - [Taliesin] by Stephen R. Lawhead. 1987. 496 pp.
 - [The Sense of an Ending] by Julian Barnes. 2011. 150 pp.
+- [Children of Time] by Adrian Tchaikovsky. 2015. 608 pp. 
 
+[Children of Time]: https://www.goodreads.com/book/show/25499718-children-of-time]
 [Robinson Crusoe]: https://www.goodreads.com/book/show/2932.Robinson_Crusoe
 [Dune]: https://www.goodreads.com/book/show/234225.Dune
 [Ender's Game]: https://www.goodreads.com/book/show/375802.Ender_s_Game
