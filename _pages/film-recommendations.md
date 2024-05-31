@@ -122,6 +122,13 @@ permalink: /film/
 - [The Tragedy of Macbeth] (2021)
     - Directed by Joel Coen
     - Screenplay by Joel Coen
+- [The Banshees of Inisherin] (2022)
+    - Directed by Martin McDonagh
+    - Screenplay by Martin McDonagh
+- [The Northman] (2022)
+    - Directed by Robert Eggers
+    - Screenplay by Robert Eggers, Sjón
+
 
 [The Salt of the Earth]:https://www.imdb.com/title/tt3674140/
 [20th Century Women]: https://www.imdb.com/title/tt4385888/
@@ -163,3 +170,5 @@ permalink: /film/
 [The Tragedy of Macbeth]: https://www.imdb.com/title/tt10095582/
 [The Handmaiden]: https://www.imdb.com/title/tt4016934/
 [The Hurt Locker]: https://www.imdb.com/title/tt0887912/
+[The Banshees of Inisherin]: https://www.imdb.com/title/tt11813216/
+[The Northman]: https://www.imdb.com/title/tt11138512/

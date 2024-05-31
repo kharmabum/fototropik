@@ -5,6 +5,32 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> Be selfish and selfless.
+>
+> Give to yourself, first.
+>
+> So that you can give more to others.
+>
+> And when you give, don't expect to "get" anything in return.
+>
+> Enjoy the joy of being in a position to give selflessly in the first place.
+
+– Nicolas Cole, [17 rules for a life well lived](https://www.linkedin.com/feed/update/urn:li:activity:7140694547843444736/)
+
+<br>
+
+> An individual human existence should be like a river — small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being.
+
+– Bertrand Russel 
+
+<br>
+
+> I've read something that Bill Gates said about six months ago. He said, ‘I worked really, really hard in my 20s.’ And I know what he means, because I worked really, really hard in my 20s too. Literally, you know, 7 days a week, a lot of hours every day. And it actually is a wonderful thing to do, because you can get a lot done. But you can't do it forever, and you don't want to do it forever, and you have to come up with ways of figuring out what the most important things are and working with other people even more.”
+
+― Steve Jobs
+
+<br>
+
 > Hatred never ceases by hatred but by love alone is healed. This is an ancient and eternal law.
 
 — [Siddhārtha Gautama](https://en.wikipedia.org/wiki/The_Buddha)
@@ -12,15 +38,15 @@ permalink: /quotes/
 <br>
 
 > Leonard Cohen said his teacher once told him that, the older you get, the lonelier you become, and the deeper the love you need. This is because, as we go through life, we tend to over-identify with being the hero of our stories. 
-
+>
 > This hero isn’t exactly having fun: he’s getting kicked around, humiliated, and disgraced. But if we can let go of identifying with him, we can find our rightful place in the universe, and a love more satisfying than any we’ve ever known.
-
+>
 > People constantly throw around the term “hero’s journey” without having any idea what it really means. Everyone from CEOs to wellness influencers thinks the hero’s journey means facing your fears, slaying a dragon, and gaining 25k followers on Instagram. But that’s not the real hero’s journey.
-
+>
 > In the real hero’s journey, the dragon slays YOU. Much to your surprise, you couldn’t make that marriage work. Much to your surprise, you turned forty with no kids, no house, and no prospects. Much to your surprise, the world didn’t want the gifts you proudly offered it.
-
+>
 > If you are foolish, this is where you will abort the journey and start another, and another, abusing your heart over and over for the brief illusion of winning. But if you are wise, you will let yourself be shattered, and return to the village, humbled, but with a newfound sense that you don’t have to identify with the part of you that needs to win, needs to be recognized, needs to know. This is where your transcendent life begins.
-
+>
 > So embrace humility in everything. Life isn’t out to get you, nor are your struggles your fault. Every defeat is just an angel, tugging at your sleeve, telling you that you don’t have to keep banging your head against the wall. Leave that striver there, trapped in his lonely ambitions. Just walk away, and life in its vastness will embrace you.
 
 — [Paul Weinfield](https://en.wikipedia.org/wiki/Paul_Winfield)
@@ -46,25 +72,25 @@ permalink: /quotes/
 <br>
 
 > More than once when I
-
+>
 > Sat all alone, revolving in myself
-
+>
 > The word that is the symbol of myself,
-
+>
 > The mortal limit of the Self was loosed,
-
+>
 > And passed into the nameless, as a cloud
-
+>
 > Melts into heaven. I touch’d my limbs, the limbs
-
+>
 > Were strange, not mine—and yet no shade of doubt,
-
+>
 > But utter clearness, and thro’ loss of Self
-
+>
 > The gain of such large life as matched with ours
-
+>
 > Were sun to spark—unshadowable in words,
-
+>
 > Themselves but shadows of a shadow-world”
 
 
@@ -274,35 +300,35 @@ permalink: /quotes/
 
 <br>
 > Let not a person revive the past
-
+>
 > Or on the future build his hopes;
-
+>
 > For the past has been left behind
-
+>
 > And the future has not been reached.
-
+>
 > Instead with insight let him see
-
+>
 > [Each presently arisen state](https://link.springer.com/content/pdf/10.1007%2Fs12671-014-0333-z.pdf);
-
+>
 > Let him know that and be sure of it,
-
+>
 > Invincibly, unshakably.
-
+>
 > Today effort must be made;
-
+>
 > Tomorrow Death may come, who knows?
-
+>
 > No bargain with Mortality
-
+>
 > Can keep him and his hordes away,
-
+>
 > But one who dwells thus ardently,
-
+>
 > Relentlessly, by day and night—
-
+>
 > It is he, the Peaceful Sage has said,
-
+>
 > Who has had a single excellent night.
 
 – Majjhima Nikaya (MN:131)

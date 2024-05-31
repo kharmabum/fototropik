@@ -4,11 +4,23 @@ title:  "Epigrams"
 date:   2018-12-02
 permalink: /epigrams/
 ---
+ 
+> Our spiritual life - built on the conventional life - is not wholly our own - it emerges from our interactions with life: others individuals and the legacy of artifacts and institutions from the past.
+>
+> At some point this legacy of artifacts starts to become more obvious - there’s a clear attempt at creating memetic lode points, attractors both conceptually and physically in the Buddhist world. To essentially steer society more towards awakening.
+>
+> To hack the emergence.
+
+<br> 
+
+> Do not confuse the goodness of a thing with your own personal relationship with a thing.
+
+<br>
 
 > The hardest problems I've discovered so far:
 > - Choosing where to put my limited energy
 > - Balancing allowing and efforting 
-> - Accepting the reality of Life itself
+> - Accepting the reality of life itself
 
 <br>
 
