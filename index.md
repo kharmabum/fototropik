@@ -30,6 +30,13 @@ layout: home
     </li>
     <li>
       <h3>
+        <a class="post-link" target="_blank" href="https://open.spotify.com/user/124804004?si=cca4737fdc824146">
+          Music Recommendations
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
         <a class="post-link" href="/quotes">
           Quotes
         </a>
@@ -53,13 +60,6 @@ layout: home
       <h3>
         <a class="post-link" href="/prayers">
           Prayers, Mantras, & Blessings
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
-        <a class="post-link" target="_blank" href="https://open.spotify.com/user/124804004?si=cca4737fdc824146">
-          Music Recommendations
         </a>
       </h3>
     </li>

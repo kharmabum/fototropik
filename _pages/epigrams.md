@@ -11,9 +11,13 @@ permalink: /epigrams/
 >
 > To hack the emergence.
 
+– 2024
+
 <br> 
 
 > Do not confuse the goodness of a thing with your own personal relationship with a thing.
+
+– 2024
 
 <br>
 
@@ -22,13 +26,19 @@ permalink: /epigrams/
 > - Balancing allowing and efforting 
 > - Accepting the reality of life itself
 
+– 2023
+
 <br>
 
 > When life leaves and enters this world, attention and the ritual that supports it find their highest resonance.
 
+– 2023
+
 <br> 
 
 > Find the fear, shame, and grief and send them all love.
+
+– 2023
 
 <br> 
 
