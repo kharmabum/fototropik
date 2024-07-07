@@ -9,13 +9,6 @@ layout: home
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <li>
       <h3>
-        <a class="post-link" href="/albums">
-          Photography
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
         <a class="post-link" href="/writing">
           Writing
         </a>
@@ -35,14 +28,6 @@ layout: home
         </a>
       </h3>
     </li>
-    <li>
-      <h3>
-        <a class="post-link" target="_blank" href="https://open.spotify.com/user/124804004?si=cca4737fdc824146">
-          Music Recommendations
-        </a>
-      </h3>
-    </li>
-    <li>
       <h3>
         <a class="post-link" href="/quotes">
           Quotes
@@ -70,4 +55,19 @@ layout: home
         </a>
       </h3>
     </li>
+    <li>
+      <h3>
+        <a class="post-link" href="/albums">
+          Photography (2009-2018)
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a class="post-link" target="_blank" href="https://open.spotify.com/user/124804004?si=cca4737fdc824146">
+          Music Recommendations
+        </a>
+      </h3>
+    </li>
+    <li>
   </ul>

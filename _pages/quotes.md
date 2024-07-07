@@ -5,6 +5,46 @@ date:   2018-12-02
 permalink: /quotes/
 ---
 
+> It really boils down to this: that all life is interrelated. We are all caught in an inescapable network of mutuality, tied together into a single garment of destiny.  Whatever affects one directly, affects all indirectly. We are made to live together because of the interrelated structure of reality . . . Before you finish eating breakfast in the morning, you’ve depended on more than half the world. This is the way our universe is structured, this is its interrelated quality. We aren’t going to have peace on Earth until we recognize the basic fact of the interrelated structure of all reality.
+
+– Dr. Martin Luther King, Jr, 1967 Christmas Sermon on Peace
+
+<br>
+
+> We have two lives, and the second begins when we realize we only have one.
+
+– Confucius
+
+<br>
+
+> Time is the shadow of motion.
+
+– Japanese proverb
+
+<br>
+
+> The first step to wisdom is getting things by their right name.
+
+– Chinese proverb
+
+<br>
+
+> The manner by which we approach is more important than the thing we think we're approaching. Because the thing we think we're approaching is a reflection of our inner structures, our belief systems, our socialization, our conditioning. If we see the world through the lens of rationalism, materialism and separation, which is kind of the unholy trinity of capitalist modernity, then everything is a problem to be solved in a mechanistic way.
+
+– Alnoor Ladha
+
+<br>
+
+> When I take people to the desert, they may see a tin can lying under a cactus and ask, “How can anyone do that to this beautiful desert?” But that can is the desert. It’s what is. How can it be out of place? 
+> 
+> The cactus, the snakes, the scorpions, the sand, the can, and us–all of it. That is nature, not a mental image of the desert without the can. Without any stress or judgment, I notice that I just pick up the can. Or I could tell the story that people are polluting the earth and that there is no end to human selfishness and greed and then pick up the can with all the sadness and anger I’d be feeling. Either way, when it’s time for the can to move, I’m there, as nature, picking up the can. 
+>
+> Who would I be without my uninvestigated story? Just happily picking up the can. And if someone notices me picking it up and my action seems right, that person may pick up another can. We’re already acting as a community, beyond anything that we planned. Without a story, without an enemy, action is spontaneous, clear and infinitely kind.
+
+– Byron Katie, The Work
+
+<br>
+
 > Be selfish and selfless.
 >
 > Give to yourself, first.
