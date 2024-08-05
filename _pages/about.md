@@ -11,7 +11,7 @@ I'm a core volunteer within the [Port Townsend Psychedelic Society][ptps], co-fo
 
 I also work as an engineer at [Ginkgo Bioworks][ginkgo] where I build tools to communicate with microscopic organisms, teaching them how to sustainably produce useful compounds such as medicines without reliance on fossil fuels as feedstock.
 
-I am student of all my relations, scripture, mythology, and deep presence. I believe we are here to be compassionate and to help every future generation and the universe itself grow in awareness and love.
+I am student of all my relations, scripture, mythology, and deep presence. I believe we are here to be compassionate and to help every future generation—and the universe itself—grow in self-awareness.
 
 - [Twitter](https://twitter.com/kharmabum)
 - [Instagram](https://instagram.com/kharmabum)
