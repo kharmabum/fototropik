@@ -7,9 +7,7 @@ redirect_from: /about
 
 My name is Juan-Carlos Foust. I was born in Puerto Rico and raised in the southeastern United States. My mother's family is Puerto Rican descended from Spanish and Taino. My father is descended from German, Celtic, and Cherokee. I moved to California in 2009 and have called the Olympic Peninsula in Washington state home since October 2020.
 
-I'm a core volunteer within the [Port Townsend Psychedelic Society][ptps], co-founder and board member of [REACH WA](https://reachwa.org) (the Responsible Entheogen Access and Community Healing Coalition), an ambassador to the [Heroic Hearts Project](https://www.heroicheartsproject.org), and a contributing writer to [HowToUsePsychedelics.com](https://HowToUsePsychedelics.com).
-
-I also work as an engineer at [Ginkgo Bioworks][ginkgo] where I build tools to communicate with microscopic organisms, teaching them how to sustainably produce useful compounds such as medicines without reliance on fossil fuels as feedstock.
+I'm a core volunteer within the [Port Townsend Psychedelic Society][ptps], co-founder of [REACH WA](https://reachwa.org) (the Responsible Entheogen Access and Community Healing Coalition), an ambassador to the [Heroic Hearts Project](https://www.heroicheartsproject.org), and a contributing writer to [HowToUsePsychedelics.com](https://HowToUsePsychedelics.com).
 
 I am student of all my relations, scripture, mythology, and deep presence. I believe we are here to be compassionate and to help every future generation—and the universe itself—grow in self-awareness.
 
