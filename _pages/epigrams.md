@@ -4,10 +4,16 @@ title:  "Epigrams"
 date:   2018-12-02
 permalink: /epigrams/
 ---
+
+> If you want more people in your life that you feel safe with, become a safe person for others.
+
+– 2024
+
+<br> 
  
 > Our spiritual life - built on the conventional life - is not wholly our own - it emerges from our interactions with life: others individuals and the legacy of artifacts and institutions from the past.
 >
-> At some point this legacy of artifacts starts to become more obvious - there’s a clear attempt at creating memetic lode points, attractors both conceptually and physically in the Buddhist world. To essentially steer society more towards awakening.
+> At some point this legacy becomes more obvious - there’s a clear attempt at creating memetic lode points, attractors both conceptually and physically in the Buddhist world. To essentially steer society more towards awakening.
 >
 > To hack the emergence.
 
