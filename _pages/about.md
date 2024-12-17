@@ -9,7 +9,7 @@ My name is Juan-Carlos Foust. I was born in Puerto Rico and raised in the southe
 
 I'm a core volunteer within the [Port Townsend Psychedelic Society][ptps], co-founder of [REACH WA](https://reachwa.org) (the Responsible Entheogen Access and Community Healing Coalition), an ambassador to the [Heroic Hearts Project](https://www.heroicheartsproject.org), and a contributing writer to [HowToUsePsychedelics.com](https://HowToUsePsychedelics.com).
 
-Professionally, I work as a software engineer where I lead the delivery of complex, ambitious projects which support the foundations of a more just and regenerative civilization.
+Professionally, I develop software that supports the foundations of a more just and regenerative civilization.
 
 I am student of scripture, mythology, deep presence, and all my relations. I believe we are here to be kind and to help ourselves and future generations grow in self-awareness and love.
 
