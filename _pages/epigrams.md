@@ -1,13 +1,13 @@
 ---
 layout: page
-title:  "Epigrams"
-date:   2018-12-02
+title: "Epigrams"
+date: 2018-12-02
 permalink: /epigrams/
 ---
 
 > Start every mediation with the breath. Prayer is breath carried by heart-centered intention. The breath will tell you where to go or stay.
 
-- May 2025
+– May 2025
 
 > If you want more people in your life that you feel safe with, become a safe person for others.
 
@@ -23,7 +23,7 @@ permalink: /epigrams/
 
 – 2024
 
-<br> 
+<br>
 
 > Do not confuse the goodness of a thing with your own personal relationship with a thing.
 
@@ -32,8 +32,9 @@ permalink: /epigrams/
 <br>
 
 > The hardest problems I've discovered so far:
+>
 > - Choosing where to put my limited energy
-> - Balancing allowing and efforting 
+> - Balancing allowing and efforting
 > - Accepting the reality of life itself
 
 – 2023
@@ -44,19 +45,19 @@ permalink: /epigrams/
 
 – 2023
 
-<br> 
+<br>
 
 > Find the fear, shame, and grief and send them all love.
 
 – 2023
 
-<br> 
+<br>
 
 > Noticing the ways our relationships change can help us navigate our own evolution.
 
-– [April 24, 2023](https://twitter.com/kharmabum/status/1650698722865745926) 
+– [April 24, 2023](https://twitter.com/kharmabum/status/1650698722865745926)
 
-<br> 
+<br>
 
 > Letting go of things is also choosing to be happy.
 
