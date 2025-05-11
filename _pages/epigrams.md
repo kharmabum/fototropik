@@ -5,9 +5,13 @@ date:   2018-12-02
 permalink: /epigrams/
 ---
 
+> Start every mediation with the breath. Prayer is breath carried by heart-centered intention. The breath will tell you where to go or stay.
+
+- May 2025
+
 > If you want more people in your life that you feel safe with, become a safe person for others.
 
-– 2024
+– [October 2024](https://x.com/kharmabum/status/1845494676863746206)
 
 <br> 
  

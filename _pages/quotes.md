@@ -1,9 +1,37 @@
 ---
 layout: page
-title:  "Quotes"
-date:   2018-12-02
+title: "Quotes"
+date: 2018-12-02
 permalink: /quotes/
 ---
+
+> The person who, being truly on the Way, falls upon hard times in the world will not, as a consequence, turn to that friend who offers him refuge and comfort and encourages his old self to survive. Rather, he will seek out someone who will faithfully and inexorably help him to risk himself, so that he may endure the suffering and pass courageously through it, thus making of it a 'raft that leads to the far shore.'
+> 
+> Only to the extent that a person exposes himself willingly over and over again to annihilation, can that which is indestructible arise within him.
+>
+> In this lies the dignity of daring and the spirit of true awakening.
+
+— Karlfried Graf Dürckheim, The Way of Transformation
+
+<br>
+
+> Biology programs itself, converts and stores its own energy, harvests its own resources, copies itself, forks its code in response to dynamic surroundings, repairs itself, only uses on-device compute for the ultimate speed and security, and retains information for billions of years. It can do this without any human input after an initial engineering phase.
+
+– Maxx Chatsko, [Why Aren't There Any $1 Trillion Biotech Companies?](https://www.living.tech/articles/why-arent-there-any-1-trillion-biotech-companies)
+
+<br>
+
+> Your task is not to seek for love, but merely to seek and find all the barriers within yourself that you have built against it.
+
+– Rumi
+
+<br>
+
+> You are not obliged to complete the work, but neither are you free to desist from it.
+
+– Rabbi Tarfon
+
+<br>
 
 > It really boils down to this: that all life is interrelated. We are all caught in an inescapable network of mutuality, tied together into a single garment of destiny.  Whatever affects one directly, affects all indirectly. We are made to live together because of the interrelated structure of reality . . . Before you finish eating breakfast in the morning, you’ve depended on more than half the world. This is the way our universe is structured, this is its interrelated quality. We aren’t going to have peace on Earth until we recognize the basic fact of the interrelated structure of all reality.
 
@@ -35,9 +63,9 @@ permalink: /quotes/
 
 <br>
 
-> When I take people to the desert, they may see a tin can lying under a cactus and ask, “How can anyone do that to this beautiful desert?” But that can is the desert. It’s what is. How can it be out of place? 
-> 
-> The cactus, the snakes, the scorpions, the sand, the can, and us–all of it. That is nature, not a mental image of the desert without the can. Without any stress or judgment, I notice that I just pick up the can. Or I could tell the story that people are polluting the earth and that there is no end to human selfishness and greed and then pick up the can with all the sadness and anger I’d be feeling. Either way, when it’s time for the can to move, I’m there, as nature, picking up the can. 
+> When I take people to the desert, they may see a tin can lying under a cactus and ask, “How can anyone do that to this beautiful desert?” But that can is the desert. It’s what is. How can it be out of place?
+>
+> The cactus, the snakes, the scorpions, the sand, the can, and us–all of it. That is nature, not a mental image of the desert without the can. Without any stress or judgment, I notice that I just pick up the can. Or I could tell the story that people are polluting the earth and that there is no end to human selfishness and greed and then pick up the can with all the sadness and anger I’d be feeling. Either way, when it’s time for the can to move, I’m there, as nature, picking up the can.
 >
 > Who would I be without my uninvestigated story? Just happily picking up the can. And if someone notices me picking it up and my action seems right, that person may pick up another can. We’re already acting as a community, beyond anything that we planned. Without a story, without an enemy, action is spontaneous, clear and infinitely kind.
 
@@ -61,7 +89,7 @@ permalink: /quotes/
 
 > An individual human existence should be like a river — small at first, narrowly contained within its banks, and rushing passionately past rocks and over waterfalls. Gradually the river grows wider, the banks recede, the waters flow more quietly, and in the end, without any visible break, they become merged in the sea, and painlessly lose their individual being.
 
-– Bertrand Russel 
+– Bertrand Russel
 
 <br>
 
@@ -77,7 +105,7 @@ permalink: /quotes/
 
 <br>
 
-> Leonard Cohen said his teacher once told him that, the older you get, the lonelier you become, and the deeper the love you need. This is because, as we go through life, we tend to over-identify with being the hero of our stories. 
+> Leonard Cohen said his teacher once told him that, the older you get, the lonelier you become, and the deeper the love you need. This is because, as we go through life, we tend to over-identify with being the hero of our stories.
 >
 > This hero isn’t exactly having fun: he’s getting kicked around, humiliated, and disgraced. But if we can let go of identifying with him, we can find our rightful place in the universe, and a love more satisfying than any we’ve ever known.
 >
@@ -93,7 +121,7 @@ permalink: /quotes/
 
 <br>
 
-> Hatred paralyzes life; love releases it. Hatred confuses life; love harmonizes it. Hatred darkens life; love illuminates it. Hate is too great a burden to bear. I have decided to love." 
+> Hatred paralyzes life; love releases it. Hatred confuses life; love harmonizes it. Hatred darkens life; love illuminates it. Hate is too great a burden to bear. I have decided to love."
 
 – [Martin Luther King Jr.](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
@@ -111,34 +139,6 @@ permalink: /quotes/
 
 <br>
 
-> More than once when I
->
-> Sat all alone, revolving in myself
->
-> The word that is the symbol of myself,
->
-> The mortal limit of the Self was loosed,
->
-> And passed into the nameless, as a cloud
->
-> Melts into heaven. I touch’d my limbs, the limbs
->
-> Were strange, not mine—and yet no shade of doubt,
->
-> But utter clearness, and thro’ loss of Self
->
-> The gain of such large life as matched with ours
->
-> Were sun to spark—unshadowable in words,
->
-> Themselves but shadows of a shadow-world”
-
-
-― Alfred Lord Tennyson
-
-<br>
-
-
 > All this visible universe is not unique in nature and we must believe there are, in other regions of space, other worlds, other beings and other men.
 
 – Lucretius, 99-55 BC
@@ -151,11 +151,9 @@ permalink: /quotes/
 
 <br>
 
-
 > Bravery comes along with the gradual accumulation of discipline
 
 – Buzz Aldrin
-
 
 <br>
 
@@ -339,42 +337,7 @@ permalink: /quotes/
 – Olivier Said, Founder of [Kitchen on Fire](https://www.kitchenonfire.com)
 
 <br>
-> Let not a person revive the past
->
-> Or on the future build his hopes;
->
-> For the past has been left behind
->
-> And the future has not been reached.
->
-> Instead with insight let him see
->
-> [Each presently arisen state](https://link.springer.com/content/pdf/10.1007%2Fs12671-014-0333-z.pdf);
->
-> Let him know that and be sure of it,
->
-> Invincibly, unshakably.
->
-> Today effort must be made;
->
-> Tomorrow Death may come, who knows?
->
-> No bargain with Mortality
->
-> Can keep him and his hordes away,
->
-> But one who dwells thus ardently,
->
-> Relentlessly, by day and night—
->
-> It is he, the Peaceful Sage has said,
->
-> Who has had a single excellent night.
 
-– Majjhima Nikaya (MN:131)
-
-
-<br>
 > There is a huge and leaden loneliness settling like a frozen winter on so many humans.
 
 – John O’Donahue
@@ -409,7 +372,6 @@ permalink: /quotes/
 
 – Viktor E. Frankl
 
-
 <br>
 > We who lived in concentration camps can remember the men who walked through the huts comforting others, giving away their last piece of bread. They may have been few in number, but they offer sufficient proof that everything can be taken from a man but one thing: the last of the human freedoms—to choose one’s attitude in any given set of circumstances, to choose one’s own way... It is this spiritual freedom—which cannot be taken away—that makes life meaningful and purposeful.
 
@@ -434,11 +396,6 @@ permalink: /quotes/
 > "Watch what people are cynical about, and one can often discover what they lack.”
 
 — George S. Patton
-
-<br>
-> This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to every one that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown or to any man or number of men, go freely with powerful uneducated persons and with the young and with the mothers of families, read these leaves in the open air every season of every year of your life, reexamine all you have been told at school or church or in any book, dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body.
-
-– [Whalt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman), Leaves of Grass
 
 <br>
 > We can’t have large societies that “feel right”.
@@ -579,17 +536,6 @@ permalink: /quotes/
 – [Aldous Huxley](https://en.wikipedia.org/wiki/Aldous_Huxley)
 
 <br>
-> Ah! vainest of all things
-
-> Is the gratitude of kings;
-
-> The plaudits of the crowd
-
-> Are but the clatter of feet.
-
-– [Longfellow](https://en.wikipedia.org/wiki/Henry_Wadsworth_Longfellow)
-
-<br>
 > Any organization that designs a system (defined broadly) will produce a design whose structure is a copy of the organization’s communication structure.
 
 – [Melvin Conway](https://en.wikipedia.org/wiki/Melvin_Conway)
@@ -617,7 +563,7 @@ permalink: /quotes/
 <br>
 > Metaphors of struggle may just make the phantom dramas of the mind more solid, thus perpetuating the struggle, since even high spiritual warfare is one of the ego’s self-aggrandizing dreams.
 
-– [Stephen Mitchell](https://en.wikipedia.org/wiki/Stephen_Mitchell_(translator)), Bhagavad Gita: A New Translation
+– [Stephen Mitchell](<https://en.wikipedia.org/wiki/Stephen_Mitchell_(translator)>), Bhagavad Gita: A New Translation
 
 <br>
 > I look to see if someone has a marine strategy, for taking the beach; an army strategy, for taking the country; and a police strategy, for governing the country afterward.

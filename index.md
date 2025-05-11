@@ -44,6 +44,13 @@ layout: home
     </li>
     <li>
       <h3>
+        <a class="post-link" href="/poetry">
+          Poetry
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
         <a class="post-link" href="/epigrams">
           Epigrams
         </a>
