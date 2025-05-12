@@ -9,8 +9,8 @@ Tell a wise person or else keep silent,
 for those who do not understand  
 will mock it right away.  
 I praise what is truly alive,  
-what longs to be burned to death…  
-  
+what longs to be burned to death…
+
 …And so long as you have not experienced this:  
 to die and so to grow,  
 you are only a troubled guest  
@@ -18,84 +18,84 @@ on the dark earth.
 
 — Johann Wolfgang von Goethe
 
-<br>
+---
 
 Tonight we will have a party  
-Only for the broken pieces.  
+Only for the broken pieces.
 
 Only the crooked and the blunt ones  
-Are welcome tonight;  
- 
-The shattered and the stained can come,  
-  
-But you perfected ones should stay away.  
- 
+Are welcome tonight;
+
+The shattered and the stained can come,
+
+But you perfected ones should stay away.
+
 All the orphans and exiles  
 Will be arriving soon with their  
 Bundles of rags and sorrow.  
 Make room, you bright angels:  
-Now the wounded are coming home.  
- 
+Now the wounded are coming home.
+
 Tonight will be a celebration of our tragedies  
 And our petty stupidities,  
 Our shameful transgressions,  
 The unedifying failure  
 To become what we might have been  
-In other, more radiant lives.  
- 
+In other, more radiant lives.
+
 Here are the unrelinquished griefs  
 And the never-forgiven slights;  
 Here is the stuttering clumsiness  
-And all the stagnant laziness.  
- 
+And all the stagnant laziness.
+
 Here is the hollow  
 In my heart.  
 Come in.  
-Welcome.  
- 
+Welcome.
+
 I’m so glad you’re here.  
 Outside, the Buddhas  
 And the Saints are laughing.  
 In here, there is a quieter  
 Communion of our tragedies.  
-Sit.   
- 
+Sit.
+
 There is food and cheap wine,  
 A warm fire and candles.  
 Eat. Drink. Then speak,  
 And we will all weep  
-Sticky and graceless tears.  
- 
+Sticky and graceless tears.
+
 At this party, we are dancing  
 To the tune of ten thousand folksongs,  
 Each one of imperfection  
 And darkly holy for it.  
 This is the party for the broken.  
 Imperfect music plays  
-For imperfect dancers.  
- 
+For imperfect dancers.
+
 Imperfect speeches are  
-Imperfectly spoken.  
- 
+Imperfectly spoken.
+
 We bang tables and forget  
 Our words and  
 Wash the floor with our tears.  
 You shattered and stained beauties,  
 All crooked and graceless as you are,  
 Blunted by the hard world of death,  
-Love and the push of time’s spear;  
- 
+Love and the push of time’s spear;
+
 You who are more glorious than statues,  
 As rich in stories as pirates,  
-As worthy as comets or stars,  
- 
+As worthy as comets or stars,
+
 This is the secret I want,  
 Tonight, to tell you:  
 Our dark-tongued singing  
 Reaches heavens even the Saints don’t know;  
 Our graceless, defiant dancing  
-Opens up the whole Universe.  
- 
+Opens up the whole Universe.
+
 The broken world is our country.  
 The struggle is our homeland.  
 Tonight, let the Buddhas be silent;  
@@ -107,101 +107,103 @@ Heavens will hear our song.
 
 ― Tom Hirons, Party for the Broken
 
-<br>
+---
 
 Having loved enough and lost enough  
 I am no longer searching  
 Just opening,  
 No longer trying to make sense of pain  
-But trying to be a soft and sturdy home   
+But trying to be a soft and sturdy home  
 In which real things can land.  
-These are the irritations   
+These are the irritations  
 That rub into a pearl.  
 So we can talk for awhile  
 But then we must listen  
 The way rocks listen to the sea.  
-And we can churn at all that goes wrong   
+And we can churn at all that goes wrong  
 But then we must lay all distractions  
 Down and water every living seed.  
-And yes, on nights like tonight   
+And yes, on nights like tonight  
 I too feel alone. But seldom do I  
 Face it squarely enough  
 To see it’s a door  
 Into the endless breath  
-That has no breather,   
-Into the surf that human   
+That has no breather,  
+Into the surf that human  
 Shells call Goddess.
 
 ― Mark Nepo
 
-<br>
+---
 
 All the true vows  
 are secret vows  
 the ones we speak out loud  
-are the ones we break.  
- 
+are the ones we break.
+
 There is only one life  
 you can call your own  
 and a thousand others  
-you can call by any name you want.  
- 
+you can call by any name you want.
+
 Hold to the truth you make  
 every day with your own body,  
-don't turn your face away.  
- 
+don't turn your face away.
+
 Hold to your own truth  
 at the center of the image  
-you were born with.  
- 
+you were born with.
+
 Those who do not understand  
 their destiny will never understand  
 the friends they have made  
-nor the work they have chosen  
- 
+nor the work they have chosen
+
 nor the one life that waits  
-beyond all the others.  
- 
+beyond all the others.
+
 By the lake in the wood  
 in the shadows  
 you can  
 whisper that truth  
 to the quiet reflection  
-you see in the water.  
- 
+you see in the water.
+
 Whatever you hear from  
-the water, remember,  
- 
+the water, remember,
+
 it wants you to carry  
-the sound of its truth on your lips.  
- 
+the sound of its truth on your lips.
+
 Remember,  
 in this place  
-no one can hear you  
- 
+no one can hear you
+
 and out of the silence  
 you can make a promise  
-it will kill you to break,  
- 
+it will kill you to break,
+
 that way you'll find  
-what is real and what is not.  
- 
+what is real and what is not.
+
 I know what I am saying.  
 Time almost forsook me  
-and I looked again.  
- 
+and I looked again.
+
 Seeing my reflection  
 I broke a promise  
 and spoke  
 for the first time  
-after all these years  
- 
-in my own voice,  
- 
+after all these years
+
+in my own voice,
+
 before it was too late  
 to turn my face again.
 
 ― David Whyte, All the True Vows
+
+---
 
 I said to my soul, be still, and wait without hope  
 For hope would be hope for the wrong thing; wait without love  
@@ -212,7 +214,7 @@ So the darkness shall be the light, and the stillness the dancing.
 
 ― T.S. Eliot
 
-<br>
+---
 
 I keep pulling it out –  
 the old map of my inner path  
@@ -222,26 +224,26 @@ that maybe I’ve missed,
 but there’s nothing there now  
 except some well-travelled paths.  
 they have seen my footsteps often,  
-held my laughter, caught my tears.  
- 
+held my laughter, caught my tears.
+
 I keep going over the old map  
 but now the roads lead nowhere,  
 a meaningless wilderness  
-where life is dull and futile.  
- 
+where life is dull and futile.
+
 “toss away the old map,” she says  
 “you must be kidding!” I reply.  
 she looks at me with Sarah eyes  
 and repeats “toss it away.  
-It’s of no use where you’re going.”  
- 
+It’s of no use where you’re going.”
+
 “I have to have a map!” I cry,  
 “even if it takes me nowhere.  
-I can’t be without direction,”  
- 
+I can’t be without direction,”
+
 “but you are without direction,”  
-she says, “so why not let go, be free?”  
- 
+she says, “so why not let go, be free?”
+
 so there I am – tossing away the old map,  
 sadly fearfully, putting it behind me.  
 “whatever will I do?” wails my security  
@@ -252,8 +254,8 @@ how will l know where to go?
 how will I find my way? no map!  
 but then my midlife soul whispers  
 “there was a time before maps  
-when pilgrims travelled by the stars.”  
- 
+when pilgrims travelled by the stars.”
+
 It is time for the pilgrim in me  
 to travel in the dark,  
 to learn to read the stars  
@@ -266,7 +268,7 @@ and let their light be enough for me.
 
 ― Joyce Rupp, Old Maps No Longer Work
 
-<br>
+---
 
 Your great mistake is to act the drama  
 as if you were alone. As if life  
@@ -295,7 +297,7 @@ themselves. Everything is waiting for you.
 
 ― David Whyte, Everything is Waiting for You
 
-<br>
+---
 
 I want a word that means  
 okay and not okay,  
@@ -323,7 +325,7 @@ this world so ripe with joy.
 
 ― Rosemary Trommer, For When People Ask
 
-<br>
+---
 
 More than once when I  
 Sat all alone, revolving in myself  
@@ -339,7 +341,7 @@ Themselves but shadows of a shadow-world”
 
 ― Alfred Lord Tennyson
 
-<br>
+---
 
 Let not a person revive the past  
 Or on the future build his hopes;  
@@ -360,13 +362,13 @@ Who has had a single excellent night.
 
 ― Majjhima Nikaya (MN:131)
 
-<br>
+---
 
 This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to every one that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown or to any man or number of men, go freely with powerful uneducated persons and with the young and with the mothers of families, read these leaves in the open air every season of every year of your life, reexamine all you have been told at school or church or in any book, dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body.
 
 ― [Whalt Whitman](https://en.wikipedia.org/wiki/Walt_Whitman), Leaves of Grass
 
-<br>
+---
 
 Ah! vainest of all things  
 Is the gratitude of kings;  
