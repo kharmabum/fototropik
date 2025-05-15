@@ -1,12 +1,9 @@
 ---
-</br>
 layout: page
 title: "Poetry"
 date: 2025-05-11
 permalink: /poetry/
 ---
-
-</br>
 
 Tell a wise person or else keep silent,  
 for those who do not understand  
