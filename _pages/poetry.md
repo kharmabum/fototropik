@@ -23,6 +23,7 @@ on the dark earth.
 ---
 
 <br>
+<br>
 
 Tonight we will have a party  
 Only for the broken pieces.
@@ -116,6 +117,7 @@ Heavens will hear our song.
 ---
 
 <br>
+<br>
 
 Having loved enough and lost enough  
 I am no longer searching  
@@ -146,6 +148,7 @@ Shells call Goddess.
 
 ---
 
+<br>
 <br>
 
 All the true vows  
@@ -220,6 +223,7 @@ to turn my face again.
 ---
 
 <br>
+<br>
 
 I said to my soul, be still, and wait without hope  
 For hope would be hope for the wrong thing; wait without love  
@@ -234,6 +238,7 @@ So the darkness shall be the light, and the stillness the dancing.
 
 ---
 
+<br>
 <br>
 
 I keep pulling it out –  
@@ -293,6 +298,7 @@ and let their light be enough for me.
 ---
 
 <br>
+<br>
 
 Your great mistake is to act the drama  
 as if you were alone. As if life  
@@ -326,6 +332,7 @@ themselves. Everything is waiting for you.
 ---
 
 <br>
+<br>
 
 I want a word that means  
 okay and not okay,  
@@ -358,6 +365,7 @@ this world so ripe with joy.
 ---
 
 <br>
+<br>
 
 More than once when I  
 Sat all alone, revolving in myself  
@@ -377,6 +385,7 @@ Themselves but shadows of a shadow-world”
 
 ---
 
+<br>
 <br>
 
 Let not a person revive the past  
@@ -403,6 +412,7 @@ Who has had a single excellent night.
 ---
 
 <br>
+<br>
 
 This is what you shall do: Love the earth and sun and the animals, despise riches, give alms to every one that asks, stand up for the stupid and crazy, devote your income and labor to others, hate tyrants, argue not concerning God, have patience and indulgence toward the people, take off your hat to nothing known or unknown or to any man or number of men, go freely with powerful uneducated persons and with the young and with the mothers of families, read these leaves in the open air every season of every year of your life, reexamine all you have been told at school or church or in any book, dismiss whatever insults your own soul, and your very flesh shall be a great poem and have the richest fluency not only in its words but in the silent lines of its lips and face and between the lashes of your eyes and in every motion and joint of your body.
 
@@ -412,6 +422,7 @@ This is what you shall do: Love the earth and sun and the animals, despise riche
 
 ---
 
+<br>
 <br>
 
 Ah! vainest of all things  
