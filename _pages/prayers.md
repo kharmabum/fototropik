@@ -5,6 +5,18 @@ date:   2022-09-19
 permalink: /prayers/
 ---
 
+
+> Divine Spirit
+>
+> Grant me the patience to face life with a calm heart.
+>
+> Help me trust in Your timing
+>
+> And find peace in waiting.
+
+<br>
+
+
 > First, I am water.
 
 – circa 2022
