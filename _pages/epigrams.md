@@ -9,6 +9,8 @@ permalink: /epigrams/
 
 – May 2025
 
+<br>
+
 > If you want more people in your life that you feel safe with, become a safe person for others.
 
 – [October 2024](https://x.com/kharmabum/status/1845494676863746206)
@@ -17,7 +19,7 @@ permalink: /epigrams/
  
 > Our spiritual life - built on the conventional life - is not wholly our own - it emerges from our interactions with life: others individuals and the legacy of artifacts and institutions from the past.
 >
-> At some point this legacy becomes more obvious - there’s a clear attempt at creating memetic lode points, attractors both conceptually and physically in the Buddhist world. To essentially steer society more towards awakening.
+> At some point this legacy becomes more obvious - there’s a clear attempt at creating schelling points, attractors both conceptually and physically in the Buddhist world. To essentially steer society more towards awakening.
 >
 > To hack the emergence.
 
