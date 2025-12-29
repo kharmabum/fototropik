@@ -199,7 +199,7 @@ permalink: /quotes/
 
 <br>
 
-> Bravery comes along with the gradual accumulation of discipline
+> Bravery comes along with the gradual accumulation of discipline.
 
 – Buzz Aldrin
 
