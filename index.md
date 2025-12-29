@@ -9,6 +9,13 @@ layout: home
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
     <li>
       <h3>
+        <a class="post-link" href="/quotes">
+          Quotes
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
         <a class="post-link" href="/writing">
           Writing
         </a>
@@ -37,22 +44,8 @@ layout: home
     </li>
     <li>
       <h3>
-        <a class="post-link" href="/quotes">
-          Quotes
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
         <a class="post-link" href="/poetry">
           Poetry
-        </a>
-      </h3>
-    </li>
-    <li>
-      <h3>
-        <a class="post-link" href="/epigrams">
-          Epigrams
         </a>
       </h3>
     </li>
@@ -74,6 +67,13 @@ layout: home
       <h3>
         <a class="post-link" href="/albums">
           Photography
+        </a>
+      </h3>
+    </li>
+    <li>
+      <h3>
+        <a class="post-link" href="/epigrams">
+          Epigrams
         </a>
       </h3>
     </li>

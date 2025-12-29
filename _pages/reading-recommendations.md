@@ -24,7 +24,6 @@ Fiction
 - [Taliesin] by Stephen R. Lawhead. 1987. 496 pp.
 - [The Sense of an Ending] by Julian Barnes. 2011. 150 pp.
 - [Children of Time] by Adrian Tchaikovsky. 2015. 608 pp. 
-- 
 
 [Children of Time]: https://www.goodreads.com/book/show/25499718-children-of-time]
 [Robinson Crusoe]: https://www.goodreads.com/book/show/2932.Robinson_Crusoe
@@ -82,7 +81,7 @@ Spirituality
 [Zen: The Authentic Gate]: https://www.goodreads.com/book/show/25726673-zen
 [Death be Not Proud]: https://www.goodreads.com/book/show/486298.Death_Be_Not_Proud
 [Your Symphony of Selves]: https://www.theosophical.org/publications/quest-magazine/5014-your-symphony-of-selves-discover-and-understand-more-of-who-we-are
-[The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession] : https://www.goodreads.com/book/show/124947247-the-others-within-us
+[The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession]: https://www.goodreads.com/book/show/124947247-the-others-within-us
 
 
 Life & Relationships
