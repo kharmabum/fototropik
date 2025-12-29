@@ -5,6 +5,55 @@ date:   2022-09-19
 permalink: /prayers/
 ---
 
+> Earth teach me stillness as the grasses are stilled with light.
+>
+> Earth teach me suffering as old stone suffer with memory.
+>
+> Earth teach me humility as blossoms are humble with beginning.
+>
+> Earth teach me caring as the mother who secures her young.
+>
+> Earth teach me courage as the tree which stands alone.
+>
+> Earth teach me limitation as the ant which crawls on the ground.
+>
+> Earth teach me freedom as the eagle which soars in the sky.
+>
+> Earth teach me regeneration as the seed which rises in the spring.
+>
+> Earth teach me to forget myself as melted snow forgets its life.
+>
+> Earth teach me to remember kindness as dry fields weep in the rain. 
+
+– John Yellow Lark
+
+<br> 
+
+> Blessed are the curious, for their curiosity honors reality.
+>
+> Blessed are the uncertain and those with second thoughts, for their minds are still open.
+>
+> Blessed are the wonderers, for they shall find what is wonderful.
+>
+> Blessed are those who question their answers, for their horizons will expand forever.
+>
+> Blessed are those who often feel foolish, for they are wiser than those who think themselves wise.
+>
+> Blessed are those who are scolded, suspected and labeled as heretics by the gatekeepers, for the prophets and mystics were treated in the same way by the gatekeepers of their day.
+>
+> Blessed are those who know their unknowing, for they shall have the last laugh.
+>
+> Blessed are the perplexed, for they have reached the frontiers of contemplation.
+>
+> Blessed are they who become cynical about their cynicism and suspicious of their suspicion, for they will enter the second innocence.
+>
+> Blessed are the doubters, for they shall see through false gods.
+>
+> Blessed are the lovers, for they shall see God everywhere.
+
+– Brian McLearen
+
+<br>
 
 > Divine Spirit
 >

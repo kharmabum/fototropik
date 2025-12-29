@@ -24,6 +24,7 @@ Fiction
 - [Taliesin] by Stephen R. Lawhead. 1987. 496 pp.
 - [The Sense of an Ending] by Julian Barnes. 2011. 150 pp.
 - [Children of Time] by Adrian Tchaikovsky. 2015. 608 pp. 
+- 
 
 [Children of Time]: https://www.goodreads.com/book/show/25499718-children-of-time]
 [Robinson Crusoe]: https://www.goodreads.com/book/show/2932.Robinson_Crusoe
@@ -61,7 +62,8 @@ Spirituality
 - [The Middle Length Discourses of the Buddha] translated by Bhikkhu Bodhi. 300 BCE. 1424 pp.
 - [The Wind is My Mother] by Bear Heart. 1998. 288 pp.
 - [Death be Not Proud] by John Gunther. 1998. 206 pp.
-- [Your Symphony of Selves] by James Fadiman and Jordan Gruber. 2020. 434 pp
+- [Your Symphony of Selves] by James Fadiman and Jordan Gruber. 2020. 434 pp.
+- [The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession] by Robert Falconer. 2023. 504 pp.
 
 [Siddhartha]: https://www.goodreads.com/book/show/52036.Siddhartha
 [Meditations]: https://www.goodreads.com/book/show/30659.Meditations
@@ -80,6 +82,8 @@ Spirituality
 [Zen: The Authentic Gate]: https://www.goodreads.com/book/show/25726673-zen
 [Death be Not Proud]: https://www.goodreads.com/book/show/486298.Death_Be_Not_Proud
 [Your Symphony of Selves]: https://www.theosophical.org/publications/quest-magazine/5014-your-symphony-of-selves-discover-and-understand-more-of-who-we-are
+[The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession] : https://www.goodreads.com/book/show/124947247-the-others-within-us
+
 
 Life & Relationships
 -----------
@@ -92,6 +96,7 @@ Life & Relationships
 - [Lying] by Sam Harris. 2011. 47 pp.
 - [Mating in Captivity] by Esther Perel. 2006. 272 pp.
 - [Hot Monogamy] by Patricia Love,  Jo Robinson. 1994. 310 pp.
+- [Never Split the Difference: Negotiating as if Your Life Depended on It] by Chris Voss. 2016. 274 pp.
 
 [How to Win Friends and Influence People]: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 [A Book of Five Rings]: https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings
@@ -102,6 +107,7 @@ Life & Relationships
 [Hot Monogamy]: https://www.goodreads.com/book/show/80308.Hot_Monogamy
 [Nonviolent Communication]: https://www.goodreads.com/book/show/71730.Nonviolent_Communication
 [When the Past is Present: Healing the Emotional Wounds that Sabotage our Relationships]: https://www.goodreads.com/book/show/2725658-when-the-past-is-present
+[Never Split the Difference: Negotiating as if Your Life Depended on It]: https://www.goodreads.com/book/show/123857637-never-split-the-difference
 
 Health & Self-Improvement
 -----------
@@ -114,7 +120,9 @@ Health & Self-Improvement
 - [How Life Imitates Chess] by Gary Kasparov. 2001. 240 pp.
 - [Raw Nerve] by Aaron Swartz.
 - [The Master Key System] by Charles F. Haanel. 1912. 236 pp.
-
+- [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal] by Jim Loehr. 2003. 222 pp.
+- [Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict] by Tsultrim Allione. 2008. 288 pp.
+  
 [Starting Strength]: https://www.goodreads.com/book/show/40965592-starting-strength
 [Becoming a Supple Leopard]: https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard
 [12 Rules for Life]: https://www.goodreads.com/book/show/30257963-12-rules-for-life
@@ -124,6 +132,8 @@ Health & Self-Improvement
 [Anticancer]: https://www.goodreads.com/book/show/1886829.Anticancer_A_New_Way_of_Life?ac=1
 [The Master Key System]: https://www.goodreads.com/book/show/71316.The_Master_Key_System
 [Manage Your Energy, Not Your Time]: https://hbr.org/2007/10/manage-your-energy-not-your-time
+[The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal]: https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement
+[Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict]: https://www.goodreads.com/book/show/2232663.Feeding_Your_Demons
 
 Writing, Thinking, & Leading
 -----------
@@ -187,6 +197,7 @@ Science & Philosophy
 - [The Beginning of Infinity: Explanations That Transform the World] by David Deutsch. 2011. 487 pp.
 - [The Lightness of Being: Mass, Ether, and the Unification of Forces] by Frank Wilczek. 2008. 292 pp.
 - [Fundamentals: Ten Keys to Reality] by Frank Wilczek. 2021. 272 pp.
+- [Thinking In Systems: A Primer] by Donella H. Meadows. 2008. 218 pp.
 
 [Straw Dogs]: https://www.goodreads.com/book/show/230733.Straw_Dogs?ac=1&from_search=true
 [The Selfish Gene]: https://www.goodreads.com/book/show/61535.The_Selfish_Gene
@@ -197,6 +208,7 @@ Science & Philosophy
 [The Beginning of Infinity: Explanations That Transform the World]: https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity
 [The Lightness of Being: Mass, Ether, and the Unification of Forces]: https://www.goodreads.com/book/show/3209381-the-lightness-of-being
 [Fundamentals: Ten Keys to Reality]: https://www.goodreads.com/book/show/53398908-fundamentals
+[Thinking In Systems: A Primer]: https://www.goodreads.com/book/show/3828902-thinking-in-systems
 
 Economics
 -----------

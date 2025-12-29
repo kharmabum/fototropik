@@ -5,6 +5,54 @@ date: 2018-12-02
 permalink: /quotes/
 ---
 
+> Political forms, religious institutions, cultural creations, are all rooted in economic realities. So the Industrial Revolution brought with it democracy, feminism, birth control, socialism, the decline of religion, the loosening of morals, the liberation of literature from dependence upon aristocratic patronage, the replacement of romanticism by realism in fiction—and the economic interpretation of history.
+
+— Will & Ariel Durant, The Lessons of History
+
+<br> 
+
+> Until one is committed, there is hesitancy, the chance to draw back, always ineffectiveness. Concerning all acts of initiative (and creation), there is one elementary truth, the ignorance of which kills countless ideas and splendid plans: that the moment one definitely commits oneself, then Providence moves too. All sorts of things occur to help one that would never otherwise have occurred. A whole stream of events issues from the decision, raising in one's favour all manner of unforeseen incidents and meetings and material assistance, which no man could have dreamt would have come his way. I have learned a deep respect for one of Goethe's couplets: "Whatever you can do, or dream you can, begin it. Boldness has genius, power, and magic in it!”
+
+― William Hutchison Murray
+
+<br>
+
+> A part of the bourgeoisie is desirous of redressing social grievances, in order to secure the continued existence of bourgeois society. To this section belong economists, philanthropists, humanitarians, improvers of the condition of the working class, organisers of charity, members of societies for the prevention of cruelty to animals, temperance fanatics, hole-and-corner reformers of every imaginable kind.
+
+– Friedrich Engels and Karl Marx, The Communist Manifesto
+
+<br>
+
+> In formal logic, a contradiction is the signal of a defeat; but in the evolution of real knowledge it marks the first step in progress towards a victory.
+
+– Alfred North Whitehead
+
+<br>
+
+> Good government never depends upon laws, but upon the personal qualities of those who govern. The machinery of government is always subordinate to the will of those who administer that machinery. The most important element of government, therefore, is the method of choosing leaders.
+
+– Frank Herbert, God Emperor of Dune
+
+<br>
+
+> I shall not commit the fashionable stupidity of regarding everything I cannot explain as a fraud.
+
+– Carl Jung 
+
+<br>
+
+> There is only one portal to knowing. The portal is “I do not know."
+
+– Sadghuru 
+
+<br>
+
+> Complex systems can evolve from simple systems only if there are stable intermediate forms.
+
+– Donella Meadows, Thinking in Systems
+
+<br>
+
 > The person who, being truly on the Way, falls upon hard times in the world will not, as a consequence, turn to that friend who offers him refuge and comfort and encourages his old self to survive. Rather, he will seek out someone who will faithfully and inexorably help him to risk himself, so that he may endure the suffering and pass courageously through it, thus making of it a 'raft that leads to the far shore.'
 > 
 > Only to the extent that a person exposes himself willingly over and over again to annihilation, can that which is indestructible arise within him.

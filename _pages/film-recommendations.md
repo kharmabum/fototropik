@@ -128,7 +128,9 @@ permalink: /film/
 - [The Northman] (2022)
     - Directed by Robert Eggers
     - Screenplay by Robert Eggers, Sjón
-
+- [The Brutalist] (2024)
+    - Directed by Brady Corbet
+    - Screenplay by Brady Corbet, Mona Fastvold 
 
 [The Salt of the Earth]:https://www.imdb.com/title/tt3674140/
 [20th Century Women]: https://www.imdb.com/title/tt4385888/
@@ -172,3 +174,4 @@ permalink: /film/
 [The Hurt Locker]: https://www.imdb.com/title/tt0887912/
 [The Banshees of Inisherin]: https://www.imdb.com/title/tt11813216/
 [The Northman]: https://www.imdb.com/title/tt11138512/
+[The Brutalist]: https://www.imdb.com/title/tt8999762/
