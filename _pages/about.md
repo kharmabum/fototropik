@@ -14,10 +14,5 @@ Personally, I am student of scripture, mythology, deep presence, and all my rela
 I believe we are here to practice kindness and to help ourselves and future generations grow in self-awareness and love.
 
 - [Twitter](https://twitter.com/kharmabum)
-- [Instagram](https://instagram.com/kharmabum)
-- [Github](https://github.com/kharmabum)
 - [LinkedIn](https://www.linkedin.com/in/foustjc/)
-
-[ptps]: https://www.porttownsendpsychedelicsociety.org
-[ginkgo]: https://www.ginkgobioworks.com
-[Zymergen]: https://www.zymergen.com
+- [Github](https://github.com/kharmabum)
