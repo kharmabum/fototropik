@@ -1,8 +1,17 @@
 _site
 .sass-cache
 .jekyll-metadata
-
-
-# Agents
-fred
+.env
 Makefile.local
+
+# Coding Agents (recommended rules are in .agents)
+.aider*
+.roo
+# Context bank for Roo Manager
+.context/
+opencode.json
+# MCP memory server (@izumisy/mcp-duckdb-memory-server)
+memory.data*
+# Fred
+fred/*
+!fred/plans/
