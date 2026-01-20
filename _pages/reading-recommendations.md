@@ -24,6 +24,7 @@ Fiction
 - [Taliesin] by Stephen R. Lawhead. 1987. 496 pp.
 - [The Sense of an Ending] by Julian Barnes. 2011. 150 pp.
 - [Children of Time] by Adrian Tchaikovsky. 2015. 608 pp. 
+- [The Razor's Edge] by W. Somerset Maugham. 1944. 314 pp.
 
 [Children of Time]: https://www.goodreads.com/book/show/25499718-children-of-time]
 [Robinson Crusoe]: https://www.goodreads.com/book/show/2932.Robinson_Crusoe
@@ -41,6 +42,7 @@ Fiction
 [The Sense of an Ending]: https://www.goodreads.com/book/show/10746542-the-sense-of-an-ending
 [Hart's Hope]: https://www.goodreads.com/book/show/95573.Hart_s_Hope
 [A Planet Called Treason]: https://www.goodreads.com/book/show/92974.A_Planet_Called_Treason
+[The Razor's Edge]: https://www.goodreads.com/book/show/31196.The_Razor_s_Edge
 
 
 Spirituality
@@ -48,7 +50,6 @@ Spirituality
 - [Lame Deer: Seeker of Visions] by John Fire Lame Deer,  Richard Erdoes. 1976. 352 pp.
 - [Zen: The Authentic Gate] by Yamada Koun. 2015. 248 pp.
 - [Siddhartha] by Herman Hesse. 1922. 152 pp.
-- [The Razor's Edge] by W. Somerset Maugham. 1944. 314 pp.
 - [Meditations] by Marcus Aurelius. 180. 254 pp.
 - [Tao: The Watercourse Way] by Alan W. Watts. 1975. 134 pp.
 - [The Way of Zen] by Alan W. Watts. 1957. 236 pp.
@@ -63,6 +64,7 @@ Spirituality
 - [Death be Not Proud] by John Gunther. 1998. 206 pp.
 - [Your Symphony of Selves] by James Fadiman and Jordan Gruber. 2020. 434 pp.
 - [The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession] by Robert Falconer. 2023. 504 pp.
+- [Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict] by Tsultrim Allione. 2008. 288 pp.
 
 [Siddhartha]: https://www.goodreads.com/book/show/52036.Siddhartha
 [Meditations]: https://www.goodreads.com/book/show/30659.Meditations
@@ -72,7 +74,6 @@ Spirituality
 [Tao Te Ching]: https://www.goodreads.com/book/show/1578129.Tao_Te_Ching
 [No Man is an Island]: https://www.goodreads.com/book/show/99690.No_Man_Is_an_Island
 [Man’s Search for Meaning]: https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning
-[The Razor's Edge]: https://www.goodreads.com/book/show/31196.The_Razor_s_Edge
 [Walden]: https://www.goodreads.com/book/show/16902.Walden
 [The Middle Length Discourses of the Buddha]: https://www.goodreads.com/book/show/232708.The_Middle_Length_Discourses_of_the_Buddha
 [Essential Muir]: https://www.goodreads.com/book/show/238717.Essential_Muir?from_search=true
@@ -82,6 +83,7 @@ Spirituality
 [Death be Not Proud]: https://www.goodreads.com/book/show/486298.Death_Be_Not_Proud
 [Your Symphony of Selves]: https://www.theosophical.org/publications/quest-magazine/5014-your-symphony-of-selves-discover-and-understand-more-of-who-we-are
 [The Others Within Us: Internal Family Systems, Porous Mind, and Spirit Possession]: https://www.goodreads.com/book/show/124947247-the-others-within-us
+[Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict]: https://www.goodreads.com/book/show/2232663.Feeding_Your_Demons
 
 
 Life & Relationships
@@ -95,7 +97,6 @@ Life & Relationships
 - [Lying] by Sam Harris. 2011. 47 pp.
 - [Mating in Captivity] by Esther Perel. 2006. 272 pp.
 - [Hot Monogamy] by Patricia Love,  Jo Robinson. 1994. 310 pp.
-- [Never Split the Difference: Negotiating as if Your Life Depended on It] by Chris Voss. 2016. 274 pp.
 
 [How to Win Friends and Influence People]: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 [A Book of Five Rings]: https://www.goodreads.com/book/show/867247.A_Book_of_Five_Rings
@@ -106,7 +107,6 @@ Life & Relationships
 [Hot Monogamy]: https://www.goodreads.com/book/show/80308.Hot_Monogamy
 [Nonviolent Communication]: https://www.goodreads.com/book/show/71730.Nonviolent_Communication
 [When the Past is Present: Healing the Emotional Wounds that Sabotage our Relationships]: https://www.goodreads.com/book/show/2725658-when-the-past-is-present
-[Never Split the Difference: Negotiating as if Your Life Depended on It]: https://www.goodreads.com/book/show/123857637-never-split-the-difference
 
 Health & Self-Improvement
 -----------
@@ -120,7 +120,6 @@ Health & Self-Improvement
 - [Raw Nerve] by Aaron Swartz.
 - [The Master Key System] by Charles F. Haanel. 1912. 236 pp.
 - [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal] by Jim Loehr. 2003. 222 pp.
-- [Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict] by Tsultrim Allione. 2008. 288 pp.
   
 [Starting Strength]: https://www.goodreads.com/book/show/40965592-starting-strength
 [Becoming a Supple Leopard]: https://www.goodreads.com/book/show/13594266-becoming-a-supple-leopard
@@ -132,7 +131,6 @@ Health & Self-Improvement
 [The Master Key System]: https://www.goodreads.com/book/show/71316.The_Master_Key_System
 [Manage Your Energy, Not Your Time]: https://hbr.org/2007/10/manage-your-energy-not-your-time
 [The Power of Full Engagement: Managing Energy, Not Time, Is the Key to High Performance and Personal Renewal]: https://www.goodreads.com/book/show/68985.The_Power_of_Full_Engagement
-[Feeding Your Demons: Ancient Wisdom for Resolving Inner Conflict]: https://www.goodreads.com/book/show/2232663.Feeding_Your_Demons
 
 Writing, Thinking, & Leading
 -----------
@@ -141,12 +139,14 @@ Writing, Thinking, & Leading
 - [High Output Management] by Andrew S. Grove. 1983. 272 pp.
 - [Leadership on the Line] by Ronald A. Heifetz. 2002. 272 pp.
 - [The Leadership Pipeline: How to Build the Leadership-Powered Company] by Ram Charan,  Stephen Drotter,  Jim Noel. 2000. 272 pp.
+- [Never Split the Difference: Negotiating as if Your Life Depended on It] by Chris Voss. 2016. 274 pp.
 
 [On Writing Well]: https://www.goodreads.com/book/show/53343.On_Writing_Well
 [Elements of Style]: https://www.goodreads.com/book/show/33514.The_Elements_of_Style
 [High Output Management]: https://www.goodreads.com/book/show/324750.High_Output_Management
 [Leadership on the Line]: https://www.goodreads.com/book/show/210009.Leadership_on_the_Line
 [The Leadership Pipeline: How to Build the Leadership-Powered Company]: https://www.goodreads.com/book/show/1254.The_Leadership_Pipeline?from_search=true&from_srp=true&qid=No4n2ycOvz&rank=1
+[Never Split the Difference: Negotiating as if Your Life Depended on It]: https://www.goodreads.com/book/show/123857637-never-split-the-difference
 
 Financial Independence
 -----------
@@ -229,3 +229,5 @@ Economics
 [Poor Economics]: https://www.goodreads.com/book/show/10245602-poor-economics
 [Zero to One]: https://www.goodreads.com/book/show/18050143-zero-to-one
 [Sacred Economics]: https://www.goodreads.com/book/show/11289729-sacred-economics
+
+See also a collection of [Gemini reports](https://drive.google.com/drive/u/0/folders/1DlGPUuNDugwUHICb2bVms4XfFoYNwjyK).
