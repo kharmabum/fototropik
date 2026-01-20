@@ -9,9 +9,9 @@ Hola. My name is Juan-Carlos Foust. I was born in Ceiba, Puerto Rico and raised 
 
 Professionally, I try to develop software that supports the foundations of a more just and regenerative civilization.
 
-Personally, I am student of scripture, mythology, deep presence, and all my relations.
+Personally, I am student of all my relations, scripture, mythology, and deep presence.
 
-I believe we are here to practice kindness and to help ourselves and future generations grow in self-awareness and love.
+I believe we are here to practice kindness and to recall our innate goodness and divine nature.
 
 - [Twitter](https://twitter.com/kharmabum)
 - [LinkedIn](https://www.linkedin.com/in/foustjc/)
